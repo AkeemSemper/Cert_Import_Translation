@@ -1,622 +1,384 @@
 LEARNER,COURSE,COURSE_VERSION,COMPLETION_DATE,COMPLETION_STATUS,CREATE_ADHOC_COURSE,COURSE_TITLE,COURSE_GOOD,PERSON_GOOD,ID
-90525,OSH-9045-Online (Rev 1),1.0,2021-07-13,200,FALSE,Cost Course - Hand Safety (1.0),0.0,0.0,0
-CONT-2835,RP-G3,1.0,2021-05-03,200,FALSE,Group 3 - Radiation Protection Training,1.0,0.0,1
-92648,OPEX-1005-Online,,2022-02-08,200,FALSE,Introducing the ImpAct Process at CNL,0.0,1.0,2
-90595,ENG-1069-Online,,2021-10-12,200,FALSE,Fume Hood Safety,0.0,1.0,3
-56660,LGL-1003-Online (Rev 2.5),2.5,2021-04-13,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,4
-10845,900-510000-MCP-015 (Rev 1),1.0,2021-03-24,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,5
-91381,OSH-1004-Online,,2022-01-26,200,FALSE,Lock Out Tag Out Exam,0.0,1.0,6
-60693,FIRE-1001-Online (Rev 4.4),4.4,2021-03-25,400,FALSE,Fire Prevention (4.4),0.0,1.0,7
-20947,QUAL-1020-Online (Rev 3),3.0,2021-11-19,200,FALSE,Quality - Software Use (3.0),0.0,1.0,8
-91751,ENG-1069-Online,,2021-10-25,200,FALSE,Fume Hood Safety,0.0,1.0,9
-95010,NMMS-1011-Online,,2022-02-28,200,FALSE,Nuclear Criticality Safety Program Awareness,0.0,1.0,10
-91650,OSH-1003-Online (REV 1.3),1.2,2021-04-25,200,FALSE,Aerial Work Platform Theory (1.2),0.0,1.0,11
-91194,OSH-9102-Online,,2021-07-14,200,FALSE,Crystalline Silica Awareness,0.0,1.0,12
-CONT-3170 ,RP-G3,1.0,2022-03-17,200,FALSE,Group 3 - Radiation Protection Training,1.0,0.0,13
-57239,HR-1003-Online (REV 0),0.0,2021-06-15,200,FALSE,Fitness for Duty (0),0.0,1.0,14
-20477,OSH-5001,,2021-10-27,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,15
-91076,SECU-2008-Online,,2022-01-25,200,FALSE,Security Awareness Refresher,0.0,1.0,16
-60266,WL-305,1.0,2021-04-12,400,FALSE,Stop Work,1.0,0.0,17
-90295,TD-1024,1.0,2021-02-07,400,FALSE,Teaching and Facilitating Learning,1.0,0.0,18
-CONT-3066,OSH-1043,,2022-03-01,200,FALSE,Contractor Safety Orientation - Online Learning,0.0,1.0,19
-57034,OSH-1001-Online,,2022-03-22,200,FALSE,Crane - Safe Indoor Hoist - Theory,0.0,1.0,20
-95028,FIRE-1001-Online,,2022-03-22,200,FALSE,Fire Prevention,0.0,1.0,21
-54358,SECU-2008-Online (REV 1.0),1.0,2021-04-01,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,22
-92610,RP-G4-Online (REV 2.7),2.7,2022-01-25,200,FALSE,Group 4 Radiation Protection (2.7),0.0,1.0,23
-92235,CNL-1009-Online (Rev 1.2),1.2,2021-06-17,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.2),0.0,1.0,24
-92201,RP-G4-Online,,2021-06-15,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,25
-10625,LGL-1003-Online,,2022-03-06,200,FALSE,Values and Ethics at CNL,0.0,1.0,26
-20303,OSH-9045-Online,,2021-07-27,200,FALSE,Hand Safety,0.0,0.0,27
-56677,NMMS-2001-Online,,2021-04-07,200,FALSE,Fissionable Materials Accounting Refresher,0.0,1.0,28
-60981,OSH-5001,,2021-10-04,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,29
-51860,HR-9004,,2021-06-04,400,FALSE,Performance Management: Providing Effective Feedback,0.0,1.0,30
-90413,FIRE-1001-Online (Rev 4.4),4.4,2021-04-13,400,FALSE,Fire Prevention (4.4),0.0,1.0,31
-92360,HR-1005,1.0,2021-11-24,200,FALSE,Mandatory Harassment and Violence Prevention Training,1.0,0.0,32
-20948,EMP-1037-Online,,2022-04-04,200,FALSE,Emergency Procedure Refresher,0.0,1.0,33
-53120,OSH-1001-Online,,2021-02-17,200,FALSE,Crane - Safe Indoor Hoist - Theory,0.0,1.0,34
-60036,LGL-1003-Online (Rev 2.5),2.5,2021-07-23,200,FALSE,Values and Ethics at CNL (2.5),0.0,0.0,35
-91616,OSH-9104-Online (Rev.1),1.0,2022-01-04,200,FALSE,Cost Course - Trenching Safety Theory (1.0),0.0,1.0,36
-59333,FIN-1004-Online,,2021-04-23,200,FALSE,Financial Delegation Of Authority,0.0,1.0,37
-91764,LGL-1003-Online,,2022-01-25,200,FALSE,Values and Ethics at CNL,0.0,1.0,38
-92195,OSH-1003-Online,,2021-09-01,200,FALSE,Aerial Work Platform Theory,0.0,1.0,39
-92594,FD-1002-Online,,2022-02-21,200,FALSE,Decommissioning Process Awareness Training for Management and Supervision,0.0,1.0,40
-92066,EMP-1037-Online,,2022-02-22,200,FALSE,Emergency Procedure Refresher,0.0,1.0,41
-58253,OSH-9070-Online (Rev 1),1.0,2021-06-30,200,FALSE,Cost Course - Arc Flash Safety for Canada (1.0),0.0,1.0,42
-60507,OSH-9045-Online,,2021-12-08,200,FALSE,Hand Safety,0.0,1.0,43
-91953,LGL-1003-Online,,2021-01-12,200,FALSE,Values and Ethics at CNL,0.0,1.0,44
-90459,OSH-3003-MULTI,,2021-07-22,200,FALSE,Aerial Platform - Practical (All Equipment Codes),0.0,1.0,45
-60902,OSH-9071-Online,,2021-03-23,200,FALSE,Electrical Safety Introduction for Canada,0.0,1.0,46
-92596,FIRE-1001-Online,,2022-01-18,400,FALSE,Fire Prevention,0.0,1.0,47
-92212,EMP-1037-Online (REV 0.1),0.1,2022-01-24,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,48
-52801,OSH-9104-Online (Rev.1),1.0,2022-02-10,200,FALSE,Cost Course - Trenching Safety Theory (1.0),0.0,1.0,49
-57994,FIN-1004-Online,,2021-03-01,200,FALSE,Financial Delegation Of Authority,0.0,1.0,50
-54642,IT-1025-Online,,2022-01-19,200,FALSE,SharePoint Online - Site Owner Training,0.0,1.0,51
-92422,NMMS-1011-Online,,2022-02-15,200,FALSE,Nuclear Criticality Safety Program Awareness,0.0,0.0,52
-56299,SECU-2008-Online (rev 1.2),1.2,2021-05-12,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,53
-10172,OSH-9045-Online,,2021-07-06,200,FALSE,Hand Safety,0.0,1.0,54
-59657,RP-G4-Online,,2021-04-14,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,55
-59775,LGL-1003-Online,,2022-03-08,200,FALSE,Values and Ethics at CNL,0.0,1.0,56
-60193,FIRE-1001-Online (Rev 4.4),4.4,2021-02-09,200,FALSE,Fire Prevention (4.4),0.0,1.0,57
-95026,OSH-1034-Online,,2022-03-21,200,FALSE,Hazard Prevention Program,0.0,1.0,58
-60666,EMP-1021-CRL-Exam,,2021-01-14,200,FALSE,Officer in Charge and Emergency Steward,0.0,1.0,59
-255,SECU-2008-Online,,2021-06-07,200,FALSE,Security Awareness Refresher,0.0,1.0,60
-90242,ERM-1004-Online  (REV 1.2),1.2,2022-04-08,200,FALSE,Decommissioning and Demolition Program Awareness (1.2),0.0,1.0,61
-92159,TD-1018-Online,,2021-05-05,200,FALSE,CNL General Safety Orientation,0.0,0.0,62
-92430,CNL-1009-Online,,2021-10-05,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,0.0,1.0,63
-55185,HU-1036-Online,,2021-01-11,200,FALSE,Pre-Job Brief,0.0,1.0,64
-57191,SECU-2008-Online,,2021-05-31,200,FALSE,Security Awareness Refresher,0.0,1.0,65
-55396,LGL-1003-Online (Rev 2.5),2.5,2021-09-20,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,66
-92360,OSH-9104-EXAM,1.0,2021-11-18,200,FALSE,Trenching Safety Exam,1.0,0.0,67
-92612,NMMS-1011-Online (REV 3.6),3.6,2022-01-25,200,FALSE,Nuclear Criticality Safety Program Awareness (3.6),0.0,1.0,68
-92202,LGL-1003-Online (Rev 2.5),2.5,2021-06-01,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,69
-91948,OSH-9045-Online (Rev 1),1.0,2021-07-08,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,70
-92114,IT-9003,,2021-04-05,400,FALSE,Microsoft Office Excel: Level 3,0.0,0.0,71
-56874,RP-G2-Refresher-Online (1.7),1.7,2021-04-20,200,FALSE,Group 2 Refresher (1.7),0.0,1.0,72
-91383,OSH-1001-Online (REV 1.2),1.2,2021-09-16,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.2),0.0,1.0,73
-90956,OSH-9045-Online (Rev 1),1.0,2021-07-16,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,74
-59994,NMMS-2001-Online (REV 4.4),4.4,2022-03-09,200,FALSE,Fissionable Materials Accounting Refresher (4.4),0.0,1.0,75
-57949,HU-1038-WL,,2021-07-20,200,FALSE,Human Performance Awareness - Refresh,0.0,1.0,76
-61549,LGL-1003-Online,,2021-11-03,200,FALSE,Values and Ethics at CNL,0.0,1.0,77
-92033,EMP-1037-Online (REV 0.2),0.2,2022-02-15,200,FALSE,Emergency Procedure Refresher (0.2),0.0,1.0,78
-53021,SECU-2008-Online (REV 1.0),1.0,2021-04-09,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,79
-92468,RP-1011-CRL-Online (Rev 1.2),1.2,2021-12-02,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,80
-61180,OPS-9005-Online,,2021-09-28,200,FALSE,Relay Basics and Types,0.0,1.0,81
-CONT-2746,RP-G4-Online (REV 2.5),2.5,2021-02-10,200,FALSE,Group 4 Radiation Protection (2.5),0.0,0.0,82
-92172,EMP-1037-Online,,2022-01-12,200,FALSE,Emergency Procedure Refresher,0.0,1.0,83
-CONT-3063,PROC-1021-Online (Rev 1),1.0,2022-02-03,200,FALSE,Canadian Nuclear Laboratories  Supplier Code of Conduct (1.0),0.0,1.0,84
-92199,HR-1005,1.0,2021-11-09,200,FALSE,Mandatory Harassment and Violence Prevention Training,1.0,0.0,85
-92235,LGL-1003-Online,,2021-06-21,200,FALSE,Values and Ethics at CNL,0.0,1.0,86
-91181,FPPD-1004,,2021-02-04,200,FALSE,Fuel Types and the AECL Inventory,0.0,1.0,87
-56797,OSH-9045-Online,,2021-07-22,400,FALSE,Hand Safety,0.0,1.0,88
-92256,OSH-1042-Online,,2021-06-28,200,FALSE,WHMIS - 2015,0.0,1.0,89
-92291,ESO-UOF-001,,2021-07-22,200,FALSE,SETCAN PBSC - NATIONAL USE OF FORCE FRAMEWORK,0.0,1.0,90
-92079,LGL-1003-Online,,2021-03-30,200,FALSE,Values and Ethics at CNL,0.0,1.0,91
-91954,OSH-9076-Online,,2022-03-22,200,FALSE,Electric Shock,0.0,1.0,92
-91502,OSH-9044-Online,,2021-03-10,200,FALSE,Hand and Power Tools,0.0,1.0,93
-92081,TD-9030-Online (Rev 1.3),1.3,2021-03-19,200,FALSE,Harassment Prevention (1.3),0.0,1.0,94
-92399,LGL-1003-Online,,2021-09-22,200,FALSE,Values and Ethics at CNL,0.0,0.0,95
-17351,LGL-1003-Online (REV 3.1),3.1,2021-11-29,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,96
-10474,WL-308,1.0,2021-03-30,200,FALSE,Integrated Work Control,1.0,0.0,97
-54055,EMP-1037-Online (REV 0.1),0.1,2022-01-24,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,98
-90327,OSH-1004-Online (Rev 1.1),1.1,2021-02-01,200,FALSE,Lock Out Tag Out Exam (1.1),0.0,1.0,99
-91640,OSH-9036-Online,,2021-02-15,200,FALSE,Chemical Hazards,0.0,1.0,100
-90239,HU-1036-Online,,2021-07-08,200,FALSE,Pre-Job Brief,0.0,1.0,101
-61318,FIRE-1001-Online,,2021-04-15,200,FALSE,Fire Prevention,0.0,1.0,102
-60310,OSH-9096-Online (Rev 1),1.0,2021-08-12,200,FALSE,Cost Course - Cold Stress (1.0),0.0,1.0,103
-90034,IT-1024-Online,,2021-04-21,200,FALSE,SharePoint Online - General User Training,0.0,1.0,104
-60693,FIRE-1001-Online,,2021-04-13,200,FALSE,Fire Prevention,0.0,1.0,105
-50954,OSH-9088-Online (Rev 1),1.0,2021-05-12,200,FALSE,Cost Course - Arc Welding Basics (1.0),0.0,1.0,106
-91203,OSH-9045-Online,,2021-07-20,200,FALSE,Hand Safety,0.0,1.0,107
-57752,QUAL-1014-Online (Rev 2),2.0,2021-10-01,200,FALSE,Quality - Software Design & Development (2.0),0.0,1.0,108
-90815,ERM-1004-Online,,2022-04-07,200,FALSE,Decommissioning and Demolition Program Awareness,0.0,1.0,109
-21121,HR-1003-Online (REV 0),0.0,2021-06-01,200,FALSE,Fitness for Duty (0),0.0,1.0,110
-92211,OSH-9102-Online,,2021-12-20,200,FALSE,Crystalline Silica Awareness,0.0,1.0,111
-54171,SECU-2008-Online,,2021-06-22,200,FALSE,Security Awareness Refresher,0.0,1.0,112
-10730,ERM-1001-Online,,2021-06-10,200,FALSE,Cleanup Function Overview,0.0,1.0,113
-53021,EMP-1037-Online (REV 0.2),0.2,2022-03-15,200,FALSE,Emergency Procedure Refresher (0.2),0.0,1.0,114
-58249,EMP-1037-Online,,2022-02-01,200,FALSE,Emergency Procedure Refresher,0.0,1.0,115
-92639,OPEX-1005-Online (REV 1.4),1.4,2022-02-28,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,116
-90954,RP-G4-Online,,2021-05-17,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,117
-91326,SECU-1060,,2021-04-01,200,FALSE,Bi-Annual Medical Assessment,0.0,1.0,118
-60347,OSH-1003-Online,,2021-05-19,200,FALSE,Aerial Work Platform Theory,0.0,1.0,119
-61696,OSH-3003-MULTI,,2022-04-14,200,FALSE,Aerial Platform - Practical (All Equipment Codes),0.0,1.0,120
-92637,OSH-1034-Online (REV 1.5),1.5,2022-02-07,200,FALSE,Hazard Prevention Program (1.5),0.0,1.0,121
-92555,OSH-1004-Online,,2022-03-02,200,FALSE,Lock Out Tag Out Exam,0.0,1.0,122
-CONT-3121,RP-G3-FCO,1.0,2022-02-09,200,FALSE,Group 3 Practical Field Checkout,1.0,0.0,123
-60398,FIRE-1001-Online (Rev 4.4),4.4,2021-03-25,200,FALSE,Fire Prevention (4.4),0.0,1.0,124
-92339,FIRE-1001-Online,,2021-08-11,200,FALSE,Fire Prevention,0.0,1.0,125
-CONT-2863 ,RP-G4-Online,,2021-05-13,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,126
-92094,OSH-1034-Online,,2021-03-22,200,FALSE,Hazard Prevention Program,0.0,1.0,127
-59560,OSH-1005-Online (REV 1.4),1.4,2021-03-10,200,FALSE,Working At Heights Theory (1.4),0.0,1.0,128
-92023,OSH-1042-Online,,2021-02-09,200,FALSE,WHMIS - 2015,0.0,0.0,129
-CONT-2865 ,RP-G4-Online (REV 2.6),2.6,2021-05-13,200,FALSE,Group 4 Radiation Protection (2.6),0.0,0.0,130
-90784,OSH-1102-Online,,2022-04-19,200,FALSE,Crystalline Silica Awareness Training: Part Two,0.0,1.0,131
-92377,CNL-1009-Online (REV 1. 3),1.3,2021-09-07,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.3),0.0,1.0,132
-59846,EMP-1037-Online,,2022-03-30,200,FALSE,Emergency Procedure Refresher,0.0,1.0,133
-91621,OSH-9045-Online,,2021-07-21,200,FALSE,Hand Safety,0.0,1.0,134
-60894,OSH-9070-Online,,2021-03-02,400,FALSE,Arc Flash Safety for Canada,0.0,1.0,135
-56232,OSH-9071-Online,,2021-02-16,200,FALSE,Electrical Safety Introduction for Canada,0.0,1.0,136
-92620,EMP-1037-Online,,2022-03-04,200,FALSE,Emergency Procedure Refresher,0.0,1.0,137
-CONT-3219,WL-120,1.0,2022-03-28,200,FALSE,Whiteshell Site Orientation,1.0,0.0,138
-92589,FIRE-1001-Online,,2022-02-25,200,FALSE,Fire Prevention,0.0,1.0,139
-20981,TF-510220-OJTN-012B,,2021-09-28,200,FALSE,Sample Characterization using a LSC - R&D Officer,0.0,1.0,140
-56887,OSH-9045-Online (Rev 1),1.0,2021-07-21,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,141
-92294,RP-G4-Online (REV 2.6),2.6,2021-08-10,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,142
-91987,HU-1038,1.0,2021-05-04,400,FALSE,Human Performance Awareness - Fundamentals and Nuclear Safety Culture,1.0,0.0,143
-92195,OSH-9071-Online (Rev 1),1.0,2021-08-25,200,FALSE,Cost Course - Electrical Safety Introduction for Canada (1.0),0.0,1.0,144
-95036,OSH-1004-Online,,2022-04-12,200,FALSE,Lock Out Tag Out Exam,0.0,1.0,145
-92009,OSH-1042-Online,,2021-02-03,200,FALSE,WHMIS - 2015,0.0,0.0,146
-61448,SECU-2008-Online,,2021-04-22,200,FALSE,Security Awareness Refresher,0.0,1.0,147
-56663,OSH-1004-Online,,2021-04-26,200,FALSE,Lock Out Tag Out Exam,0.0,0.0,148
-56676,RP-G2-Refresher-Online (1.7),1.7,2021-03-25,400,FALSE,Group 2 Refresher (1.7),0.0,1.0,149
-10717,900-510000-MCP-015 (Rev 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,150
-60555,OSH-9045-Online (Rev 1),1.0,2021-07-30,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,151
-90775,OSH-9056-Online (Rev 1),1.0,2021-01-19,200,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,1.0,152
-92456,TD-9030-Online (Rev 1.3),1.3,2021-10-26,200,FALSE,Harassment Prevention (1.3),0.0,1.0,153
-61291,OSH-1002-Online (REV 1.3),1.2,2021-11-09,200,FALSE,Lift Truck Operation Theory (1.2),0.0,0.0,154
-92611,OSH-3001-L,,2022-03-24,200,FALSE,Crane - Safe Indoor Hoist - Practical - Hoist Only,0.0,1.0,155
-90846,FIN-1004-Online (REV 1),1.0,2021-03-30,200,FALSE,Financial Delegation Of Authority (1.0),0.0,1.0,156
-55259,SECU-2008-Online (REV 1.0),1.0,2021-04-21,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,157
-AE00081,RP-G4-Online (REV 2.5),2.5,2021-01-29,200,FALSE,Group 4 Radiation Protection (2.5),0.0,0.0,158
-52881,OSH-1004-Online,,2022-02-28,200,FALSE,Lock Out Tag Out Exam,0.0,1.0,159
-CONT-3094,RP-G4-Online (REV 2.7),2.7,2022-01-10,200,FALSE,Group 4 Radiation Protection (2.7),0.0,0.0,160
-92407,RP-G3-Refresher-Online,,2021-09-27,200,FALSE,Group 3 Radiation Protection Refresher,0.0,1.0,161
-10814,WL-FIRE-004,,2021-07-22,200,FALSE,ESO FIRE - S.C.B.A. & P.A.S.S. ALARM,0.0,1.0,162
-53052,ERM-1001-Online,,2021-05-03,200,FALSE,Cleanup Function Overview,0.0,1.0,163
-54073,SECU-2008-Online (REV 1.0),1.0,2021-04-06,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,164
-57665,RP-5009-CRL,,2022-03-31,200,FALSE,Radiation Protection Limits and Levels,0.0,1.0,165
-20635,HR-1002-Online (Rev 1),1.0,2021-03-02,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,166
-92172,NMMS-1011-Online (REV 3.5),3.5,2021-05-14,200,FALSE,Nuclear Criticality Safety Program Awareness (3.5),0.0,1.0,167
-92331,HR-1005,1.0,2021-12-10,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,1.0,0.0,168
-92101,OSH-9056-Online (Rev 1),1.0,2021-03-29,200,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,1.0,169
-92207,RP-G4-Online,,2021-06-16,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,170
-92543,CNL-1009-Online,,2022-01-12,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,0.0,1.0,171
-60411,LGL-1003-Online,,2021-02-15,200,FALSE,Values and Ethics at CNL,0.0,1.0,172
-54288,RP-G3-Refresher-Online (REV 1.5),1.5,2022-02-04,400,FALSE,Group 3 Radiation Protection Refresher (1.5),0.0,1.0,173
-59338,EMP-1037-Online,,2022-04-04,200,FALSE,Emergency Procedure Refresher,0.0,1.0,174
-52573,LGL-1003-Online,,2021-11-23,200,FALSE,Values and Ethics at CNL,0.0,1.0,175
-91522,LGL-1003-Online (REV 3.3),3.3,2022-02-18,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,176
-59641,LGL-1003-Online,,2022-02-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,177
-90801,LGL-1003-Online,,2022-02-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,178
-61854,LGL-1003-Online (Rev 3.2),3.2,2022-01-31,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,179
-58228,CNL-1009-Online (REV 1. 3),1.3,2022-03-03,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.3),0.0,1.0,180
-54555,SECU-2008-Online (Rev 1.3),1.3,2021-05-26,200,FALSE,Security Awareness Refresher (1.3),0.0,1.0,181
-61180,RP-G4-Online,,2022-01-26,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,182
-92195,LGL-1003-Online,,2021-05-26,200,FALSE,Values and Ethics at CNL,0.0,1.0,183
-900,OSH-9045-Online (Rev 1),1.0,2021-07-27,200,FALSE,Cost Course - Hand Safety (1.0),0.0,0.0,184
-92024,OSH-9050-Online (Rev 1),1.0,2022-04-07,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,185
-CONT-3017,OSH-1043,,2021-11-08,200,FALSE,Contractor Safety Orientation - Online Learning,0.0,0.0,186
-90400,OSH-3003-MULTI,,2021-05-20,200,FALSE,Aerial Platform - Practical (All Equipment Codes),0.0,1.0,187
-92027,FIRE-1001-Online,,2022-02-15,200,FALSE,Fire Prevention,0.0,1.0,188
-61159,RP-1011-CRL-Online (Rev 1.2),1.2,2021-01-11,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,189
-61892,HR-1002-Online (Rev 1),1.0,2022-02-22,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,190
-92517,OSH-1042-Online,,2021-12-08,200,FALSE,WHMIS - 2015,0.0,1.0,191
-58550,SECU-2008-Online (rev 1.2),1.2,2021-04-28,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,192
-92570,OSH-1019-Online,,2022-01-11,200,FALSE,Orientation on Health and Safety for New and Young Workers,0.0,0.0,193
-92068,OSH-1004-Online (Rev 1.1),1.1,2021-04-26,200,FALSE,Lock Out Tag Out Exam (1.1),0.0,1.0,194
-91889,OSH-9070-Online,,2021-08-30,200,FALSE,Arc Flash Safety for Canada,0.0,1.0,195
-92475,RP-G4-Online (REV 2.6),2.6,2021-11-01,200,FALSE,Group 4 Radiation Protection (2.6),0.0,0.0,196
-CONT-2927 ,RP-G3-FCO,1.0,2021-08-27,200,FALSE,Group 3 Practical Field Checkout,1.0,0.0,197
-91235,CNL-1009-Online (Rev 1.2),1.2,2021-02-09,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.2),0.0,1.0,198
-56987,EMP-1037-Online (REV 0.1),0.1,2022-01-18,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,199
-61854,CNL-1009-Online (Rev 1.2),1.2,2021-04-26,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.2),0.0,1.0,200
-54078,FIN-1003-Online,,2021-05-13,200,FALSE,ExpenseCNL (Concur) System User Training,0.0,1.0,201
-92627,OPEX-1005-Online (REV 1.4),1.4,2022-02-07,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,202
-20868,SECU-2008-Online (REV 1.0),1.0,2021-04-13,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,203
-CONT-2833,RP-G3,1.0,2021-04-21,200,FALSE,Group 3 - Radiation Protection Training,1.0,0.0,204
-61072,SECU-2008-Online (rev 1.2),1.2,2021-04-27,200,FALSE,Security Awareness Refresher (1.2),0.0,0.0,205
-92118,OSH-1005-Online (REV 1.4),1.4,2021-06-01,200,FALSE,Working At Heights Theory (1.4),0.0,0.0,206
-55995,OSH-9070-Online,,2021-02-12,200,FALSE,Arc Flash Safety for Canada,0.0,1.0,207
-54788,LGL-1003-Online,,2022-03-02,200,FALSE,Values and Ethics at CNL,0.0,1.0,208
-50614,OSH-9045-Online,,2021-07-30,200,FALSE,Hand Safety,0.0,1.0,209
-92057,EMP-1037-Online (REV 0.2),0.2,2022-02-16,200,FALSE,Emergency Procedure Refresher (0.2),0.0,0.0,210
-57247,OSH-1005-Online (REV 1.7),1.7,2022-02-23,200,FALSE,Working At Heights Theory (1.7),0.0,1.0,211
-91294,LGL-1003-Online (Rev 2.5),2.5,2021-03-02,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,212
-91837,EMP-1001,1.0,2021-06-08,200,FALSE,EOC - Incident Management System Overview,1.0,0.0,213
-59816,LGL-1003-Online (Rev 2.5),2.5,2021-10-04,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,214
-92546,FIRE-1001-Online,,2022-01-10,400,FALSE,Fire Prevention,0.0,1.0,215
-91028,OSH-9070-Online,,2021-11-30,200,FALSE,Arc Flash Safety for Canada,0.0,1.0,216
-CONT-3084,RP-G4-WL,1.0,2022-01-31,200,FALSE,Group 4 WL,1.0,0.0,217
-92327,TD-1016-Online (REV 1.4),1.4,2021-08-09,200,FALSE,Preventing Violence in the Workplace (1.4),0.0,0.0,218
-54041,SECU-2008-Online (REV 1.4),1.4,2021-08-03,200,FALSE,Security Awareness Refresher (1.4),0.0,1.0,219
-91776,RP-G1-034,1.0,2021-01-07,200,FALSE,Group 1 - Personnel Contamination,1.0,0.0,220
-54020,WL-202,,2021-09-20,200,FALSE,Respirator Fit Test,0.0,1.0,221
-92261,SECU-2008-Online (REV 1.4),1.4,2021-06-29,200,FALSE,Security Awareness Refresher (1.4),0.0,1.0,222
-90159,OSH-1042-Online (REV 12.5),12.5,2022-02-03,200,FALSE,WHMIS - 2015 (12.5),0.0,1.0,223
-60544,QUAL-9051-Online,,2021-03-25,200,FALSE,Counterfeit Fraudulent Substandard Items,0.0,1.0,224
-54711,ENG-1069-Online,,2021-11-08,200,FALSE,Fume Hood Safety,0.0,1.0,225
-58282,OSH-9045-Online,,2021-06-17,200,FALSE,Hand Safety,0.0,1.0,226
-52737,ERM-1004-Online,,2022-04-05,200,FALSE,Decommissioning and Demolition Program Awareness,0.0,1.0,227
-90814,NMMS-1010-Online,,2021-07-14,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,228
-92096,LGL-1003-Online,,2021-03-22,200,FALSE,Values and Ethics at CNL,0.0,1.0,229
-54761,LGL-1003-Online,,2022-02-17,200,FALSE,Values and Ethics at CNL,0.0,1.0,230
-92583,RP-G2,1.0,2022-01-12,400,FALSE,Group 2 Radiation Protection,1.0,0.0,231
-55737,RP-1011-CRL-Online,,2021-01-11,200,FALSE,Transfer and Storage of RAM- Tag Update Training,0.0,0.0,232
-92361,OSH-1005-Online,,2021-08-25,400,FALSE,Working At Heights Theory,0.0,1.0,233
-59339,SECU-2008-Online,,2021-04-22,200,FALSE,Security Awareness Refresher,0.0,1.0,234
-55535,SECU-2008-Online (REV 1.0),1.0,2021-04-22,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,235
-61645,RP-G4-Online (REV 2.6),2.6,2021-08-11,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,236
-327,FIRE-1001-Online,,2022-01-13,200,FALSE,Fire Prevention,0.0,1.0,237
-91890,LGL-1003-Online,,2022-02-14,200,FALSE,Values and Ethics at CNL,0.0,1.0,238
-58666,LGL-1003-Online (REV 3.3),3.3,2022-03-24,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,239
-53688,FIN-1003-Online (Rev 1),1.0,2021-05-20,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,240
-90649,BRF-1001-Online002,1.2,2021-08-13,400,FALSE,CCAC Core Stream: Ethics in Animal Experimentation (1.2),0.0,1.0,241
-92233,OSH-3003-E,,2021-10-15,200,FALSE,Aerial Work Platform Practical - Single Person Up-Up,0.0,1.0,242
-91025,SECU-2008-Online (Rev 1.6),1.6,2021-11-22,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,243
-92195,OSH-1034-Online (Rev.1.4),1.4,2021-05-26,200,FALSE,Hazard Prevention Program (1.4),0.0,1.0,244
-92332,OSH-3003-MULTI,,2022-04-13,200,FALSE,Aerial Platform - Practical (All Equipment Codes),0.0,1.0,245
-60405,FIRE-1001-Online,,2021-04-19,200,FALSE,Fire Prevention,0.0,1.0,246
-21113,OSH-1006-VIRTUAL,,2021-02-10,200,FALSE,Cost Course $222/Person - GROUP 1 Private Confined Space Entry (Virtual),0.0,1.0,247
-57183,LGL-1003-Online,,2022-01-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,248
-90295,LGL-1003-Online,,2021-02-01,200,FALSE,Values and Ethics at CNL,0.0,0.0,249
-90977,PROC-1001,1.0,2021-09-29,400,FALSE,Basic Oracle iProcurement Requisition Awareness,1.0,0.0,250
-60829,RP-G3-Refresher-Online,,2022-03-11,400,FALSE,Group 3 Radiation Protection Refresher,0.0,1.0,251
-91137,OSH-9045-Online (Rev 1),1.0,2021-07-16,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,252
-61254,OSH-9045-Online (Rev 1),1.0,2021-08-08,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,253
-92103,SECU-2008-Online (REV 1.0),1.0,2021-03-26,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,254
-92063,ENG-1069-Online (REV 0.1),0.1,2021-11-09,200,FALSE,Fume Hood Safety (0.1),0.0,1.0,255
-92152,CNL-1009-Online,,2021-06-23,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,0.0,1.0,256
-95074,RP-G4-Online,,2022-04-11,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,257
-52676,OSH-9076-Online,,2021-05-05,400,FALSE,Electric Shock,0.0,1.0,258
-91634,HU-1036-Online,,2021-03-29,200,FALSE,Pre-Job Brief,0.0,1.0,259
-91198,RP-5009-CRL,,2022-03-31,200,FALSE,Radiation Protection Limits and Levels,0.0,1.0,260
-91860,RP-1003,1.0,2021-02-09,200,FALSE,Radiation Protection PPE&C Dress and Undress,1.0,0.0,261
-56444,QUAL-1014-Online,,2021-08-13,200,FALSE,Quality - Software Design & Development,0.0,1.0,262
-91948,OSH-9117-Online (REV 1.0),1.0,2021-10-29,400,FALSE,Cost Course $450/person - Fire Hazards in Oxygen Systems (1.0),0.0,1.0,263
-90168,LGL-1003-Online,,2021-11-09,200,FALSE,Values and Ethics at CNL,0.0,1.0,264
-57873,OSH-9045-Online,,2021-08-23,200,FALSE,Hand Safety,0.0,1.0,265
-90640,OSH-1003-Online (REV 1.5),1.5,2022-02-10,200,FALSE,Aerial Work Platform Theory (1.5),0.0,1.0,266
-92199,OSH-1004-VIRTUAL,1.0,2021-06-07,200,FALSE,VIRTUAL Cost Course - $222/Person - Lock Out / Tag Out,1.0,0.0,267
-57455,PHAI-1101-online,,2021-08-06,200,FALSE,OSHcast 001 - Working Alone,0.0,1.0,268
-90856,PROC-1019-24,,2021-03-11,400,FALSE,CNL Contractor Management Overview,0.0,1.0,269
-60410,HU-1036-Online,,2021-02-04,200,FALSE,Pre-Job Brief,0.0,1.0,270
-92305,OSH-1046-Online,,2022-01-06,200,FALSE,Heat Stress,0.0,1.0,271
-90649,BRF-1007-Online,,2021-08-13,200,FALSE,CCAC Animals Housed in Vivaria: Euthanasia of Experimental Animals,0.0,1.0,272
-92544,RP-CONTRACTOR 7,1.0,2022-01-04,200,FALSE,RWP Overview,1.0,0.0,273
-20568,RP-1012-CRL,1.0,2021-01-13,200,FALSE,Ludlum Model 2360 with 43-93 Detector Alpha/Beta Contamination Instrument,1.0,0.0,274
-58694,OSH-9034-Online (Rev 1),1.0,2021-09-21,200,FALSE,Cost Course - Working Around Mining Equipment (1.0),0.0,1.0,275
-61162,OSH-9096-Online,,2021-04-07,400,FALSE,Cost Course - Cold Stress,0.0,1.0,276
-61106,QUAL-1018-Online,,2021-08-27,200,FALSE,Quality - Software Configuration Management,0.0,1.0,277
-61839,LGL-1003-Online,,2021-01-04,200,FALSE,Values and Ethics at CNL,0.0,1.0,278
-55193,SECU-2008-Online (REV 1.4),1.4,2021-08-06,200,FALSE,Security Awareness Refresher (1.4),0.0,1.0,279
-53544,OSH-9045-Online,,2021-07-20,200,FALSE,Hand Safety,0.0,1.0,280
-58682,OPS-9016-Online,,2021-09-26,200,FALSE,Process Control Fundamentals,0.0,1.0,281
-59937,NMMS-1011-Online (REV 3.6),3.6,2021-11-02,200,FALSE,Nuclear Criticality Safety Program Awareness (3.6),0.0,1.0,282
-61028,EMP-1008,1.0,2021-05-04,200,FALSE,EOC - Incident Action Plan,1.0,0.0,283
-91556,OSH-9063-Online,,2021-05-18,200,FALSE,Aerial Work Platform Safety for Non-operators,0.0,1.0,284
-CONT-3110,RP-G4-Online (REV 2.7),2.7,2021-12-06,200,FALSE,Group 4 Radiation Protection (2.7),0.0,0.0,285
-92122,NMMS-1010-Online,,2021-04-08,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,286
-90362,SECU-2008-Online,,2021-05-04,200,FALSE,Security Awareness Refresher,0.0,1.0,287
-20804,EMP-1037-Online,,2022-02-12,200,FALSE,Emergency Procedure Refresher,0.0,1.0,288
-92637,OSH-1042-Online (REV 12.5),12.5,2022-02-09,200,FALSE,WHMIS - 2015 (12.5),0.0,1.0,289
-53359,MS-3001-Online,,2021-02-24,200,FALSE,Integrated Work Control Practical Applications Exam,0.0,1.0,290
-59986,OSH-9071-Online (Rev 1),1.0,2021-02-03,200,FALSE,Cost Course - Electrical Safety Introduction for Canada (1.0),0.0,1.0,291
-95026,SECU-1008-Online (REV 4.0),4.0,2022-03-21,200,FALSE,Security Awareness (4),0.0,1.0,292
-60979,OSH-9045-Online (Rev 1),1.0,2021-07-14,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,293
-91908,BRF-1002-Online,,2021-05-12,200,FALSE,CCAC Core Stream: Occupational Health & Safety,0.0,1.0,294
-57631,OSH-9045-Online,,2021-05-17,200,FALSE,Hand Safety,0.0,1.0,295
-92585,EMP-1037-Online (REV 0.2),0.2,2022-02-17,200,FALSE,Emergency Procedure Refresher (0.2),0.0,0.0,296
-90822,FIRE-1001-Online (REV 4.5),4.5,2021-06-25,200,FALSE,Fire Prevention (4.5),0.0,1.0,297
-54829,EMP-1037-Online,,2022-03-02,200,FALSE,Emergency Procedure Refresher,0.0,1.0,298
-CONT-2987,RP-G4-WL,1.0,2021-10-18,200,FALSE,Group 4 WL,1.0,0.0,299
-59310,SECU-2008-Online (REV 1.4),1.4,2021-08-03,200,FALSE,Security Awareness Refresher (1.4),0.0,1.0,300
-54238,LGL-1003-Online (Rev 2.5),2.5,2021-09-21,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,301
-57234,OSH-1004-Online (REV 1.3),1.3,2022-01-27,200,FALSE,Lock Out Tag Out Exam (1.3),0.0,1.0,302
-92065,TD-1018-Online (REV 1.4),1.4,2021-03-08,200,FALSE,CNL General Safety Orientation (1.4),0.0,1.0,303
-92201,OSH-1006-VIRTUAL,,2021-07-12,200,FALSE,Confined Space Entry (Virtual),0.0,1.0,304
-92594,CNL-1009-Online (REV 1. 3),1.3,2022-02-15,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.3),0.0,1.0,305
-55844,OSH-9045-Online,,2021-08-11,400,FALSE,Hand Safety,0.0,1.0,306
-91816,OSH-9045-Online,,2021-07-20,200,FALSE,Hand Safety,0.0,0.0,307
-92484,RP-G4-Online,,2021-11-26,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,308
-90728,NMMS-1010-Online,,2021-09-11,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,309
-55738,OSH-9045-Online (Rev 1),1.0,2022-02-08,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,310
-56154,EMP-1037-Online,,2022-03-01,200,FALSE,Emergency Procedure Refresher,0.0,1.0,311
-AE00084,FIRE-1001-Online (Rev 4.4),4.4,2021-05-21,200,FALSE,Fire Prevention (4.4),0.0,0.0,312
-55768,RP-G4-Online (REV 2.6),2.6,2021-06-07,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,313
-61352,LGL-1003-Online (REV 3.3),3.3,2022-03-01,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,314
-92146,OPEX-1005-Online (REV 1.4),1.4,2022-02-09,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,315
-60802,RP-G4-Online,,2022-02-23,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,316
-92042,LGL-1003-Online (Rev 2.5),2.5,2021-02-23,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,317
-61304,OSH-9045-Online,,2021-08-03,200,FALSE,Hand Safety,0.0,1.0,318
-57405,OPS-9005-Online (Rev 1),1.0,2021-06-30,400,FALSE,Relay Basics and Types (1.0),0.0,1.0,319
-91373,OSH-9087-Online (Rev 1),1.0,2021-02-09,400,FALSE,Cost Course - Crane Hand Signals for Canada (1.0),0.0,1.0,320
-92114,OSH-9014,1.0,2021-08-07,400,FALSE,Cost Course Asbestos Abatement Type 3 for Workers,1.0,0.0,321
-56973,WL-307,1.0,2021-02-08,200,FALSE,Job Safety Analysis,1.0,0.0,322
-54346,EMP-1037-Online (REV 0.2),0.2,2022-03-07,200,FALSE,Emergency Procedure Refresher (0.2),0.0,1.0,323
-59527,FIN-1003-Online,,2021-01-18,200,FALSE,ExpenseCNL (Concur) System User Training,0.0,1.0,324
-91668,LGL-1003-Online,,2021-06-08,200,FALSE,Values and Ethics at CNL,0.0,1.0,325
-52677,SECU-2008-Online,,2021-04-05,200,FALSE,Security Awareness Refresher,0.0,1.0,326
-92222,ESO-UOF-013,,2021-06-17,200,FALSE,SETCAN PBSC - WEAPON RETENTION AND DISARMING,0.0,1.0,327
-92594,OSH-1034-Online,,2022-02-15,200,FALSE,Hazard Prevention Program,0.0,1.0,328
-91839,ENG-1069-Online,,2021-10-05,200,FALSE,Fume Hood Safety,0.0,1.0,329
-90213,NMMS-1010-Online,,2021-08-05,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,330
-92640,OSH-1002-Online (REV 1.5),1.5,2022-02-08,200,FALSE,Lift Truck Operation Theory (1.5),0.0,1.0,331
-92445,TD-1016-Online,,2021-10-18,200,FALSE,Preventing Violence in the Workplace,0.0,1.0,332
-61624,RP-G4-Online,,2022-01-21,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,333
-92518,900-510400-STD-007 Rev. 0,0.0,2021-12-10,200,FALSE,"Lifting, Hoisting, Rigging (0.0)",0.0,1.0,334
-90667,LGL-1003-Online (Rev 2.5),2.5,2021-05-17,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,335
-CONT-277,RP-G4-Online,,2021-03-04,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,336
-54517,SECU-2008-Online,,2021-07-23,200,FALSE,Security Awareness Refresher,0.0,1.0,337
-56643,OSH-9071-Online (Rev 1),1.0,2021-10-06,200,FALSE,Cost Course - Electrical Safety Introduction for Canada (1.0),0.0,1.0,338
-91303,LGL-1003-Online (Rev 3.2),3.2,2022-02-15,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,339
-53590,OSH-1042-Online,,2021-12-22,200,FALSE,WHMIS - 2015,0.0,1.0,340
-59825,EMP-1021-CRL-Exam (REV 1.4),1.4,2021-03-19,400,FALSE,Officer in Charge and Emergency Steward (1.4),0.0,1.0,341
-90237,LGL-1003-Online (Rev 2.5),2.5,2021-04-27,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,342
-92063,OSH-9050-Online (Rev 1),1.0,2021-05-12,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,343
-91100,FIRE-1001-Online,,2021-10-26,200,FALSE,Fire Prevention,0.0,1.0,344
-51501,LGL-1003-Online (Rev 2.5),2.5,2021-05-12,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,345
-92212,TD-1016-Online,,2021-06-15,200,FALSE,Preventing Violence in the Workplace,0.0,1.0,346
-61382,RP-G2-Refresher-Online (Rev 1.8),1.8,2021-07-15,200,FALSE,Group 2 Refresher (1.8),0.0,1.0,347
-61015,ERM-1001-Online,,2021-04-20,200,FALSE,Cleanup Function Overview,0.0,1.0,348
-CONT-2912,WL-304,1.0,2021-10-18,200,FALSE,Work Permit Authorization Process,1.0,0.0,349
-51771,SECU-1006-Online,,2021-08-04,200,FALSE,Level 2 Security Clearance Awareness,0.0,1.0,350
-90378,FIN-1003-Online (Rev 1),1.0,2021-06-22,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,351
-53383,FIRE-1001-Online,,2021-02-17,200,FALSE,Fire Prevention,0.0,1.0,352
-54561,FD-1004-Online (Rev 1.0),1.0,2022-03-30,200,FALSE,Alpha Awareness (1.0),0.0,1.0,353
-58406,MS-3001-Online,,2021-02-10,200,FALSE,Integrated Work Control Practical Applications Exam,0.0,1.0,354
-57863,OSH-9058-Online,,2021-07-27,200,FALSE,Compressed Gas Cylinder Safety,0.0,1.0,355
-59634,OSH-9045-Online (Rev 1),1.0,2021-10-06,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,356
-56874,SECU-1006-Online (Rev 2.5),2.5,2021-03-22,200,FALSE,Level 2 Security Clearance Awareness (2.5),0.0,1.0,357
-52705,LGL-1003-Online,,2021-05-13,200,FALSE,Values and Ethics at CNL,0.0,1.0,358
-20973,TF-510220-OJTN-049,,2021-03-05,200,FALSE,"Emergency Procedures for the Tritium Facility, includes off shift response, Annual refresher",0.0,1.0,359
-92042,OSH-9045-Online,,2021-07-22,200,FALSE,Hand Safety,0.0,1.0,360
-91037,OSH-9099-Online,,2021-01-14,200,FALSE,Being a Mindful Employee: An Orientation to Psychological Health and Safety in the Workplace,0.0,1.0,361
-56166,SECU-2008-Online,,2021-06-10,200,FALSE,Security Awareness Refresher,0.0,1.0,362
-90550,OSH-3001-MULTI,,2021-03-26,200,FALSE,Crane - Safe Indoor Hoist - Practical - All Equipment Codes,0.0,0.0,363
-CONT-3171 ,OSH-1043,,2022-03-28,200,FALSE,Contractor Safety Orientation - Online Learning,0.0,0.0,364
-58767,LGL-1003-Online (Rev 2.5),2.5,2021-10-05,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,365
-59346,RP-G4-Online,,2021-01-21,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,366
-CONT-2906,RP-G3-FCO,1.0,2021-07-16,200,FALSE,Group 3 Practical Field Checkout,1.0,0.0,367
-60828,EMP-1037-Online (REV 0.1),0.1,2022-01-13,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,368
-57458,RP-G1-OJT-012,,2021-01-27,200,FALSE,Group 1 - NRU Rod Bays,0.0,1.0,369
-92116,OSH-9045-Classroom,,2021-08-05,200,FALSE,Hand Safety - Group Delivery,0.0,1.0,370
-90691,OSH-9045-Online (Rev 1),1.0,2021-08-31,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,371
-60533,LGL-1003-Online,,2021-10-27,200,FALSE,Values and Ethics at CNL,0.0,1.0,372
-60710,OSH-9045-Online (Rev 1),1.0,2021-09-13,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,373
-92621,SECU-2008-Online (Rev 1.6),1.6,2022-02-01,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,374
-91946,RP-G4-Online,,2021-01-04,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,375
-CONT-2963,CNL-1010,1.0,2021-10-05,200,FALSE,CNL COVID-19 Pandemic Response,1.0,0.0,376
-92597,ODT-698-WL -OLD,,2022-03-07,200,FALSE,WL Work Permit,0.0,1.0,377
-54288,SECU-2008-Online (REV 1.0),1.0,2021-04-19,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,378
-92246,RP-G4-Online (REV 2.6),2.6,2021-06-29,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,379
-20809,HR-1002-Online,,2021-09-07,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,380
-57858,OSH-1005-Online,,2021-01-20,200,FALSE,Working At Heights Theory,0.0,1.0,381
-90172,OSH-9071-Online,,2021-05-26,200,FALSE,Electrical Safety Introduction for Canada,0.0,1.0,382
-CONT-2771  ,RP-G4-Online,,2021-04-20,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,383
-92120,SECU-1008-Online,,2021-04-07,200,FALSE,*NEW HIRE* Security Awareness,0.0,1.0,384
-91158,EMP-1037-Online,,2022-03-10,200,FALSE,Emergency Procedure Refresher,0.0,1.0,385
-10347,SECU-2008-Online (Rev 1.6),1.6,2021-12-21,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,386
-58273,OSH-9045-Online,,2021-10-12,200,FALSE,Hand Safety,0.0,1.0,387
-20981,RP-G4-Online,,2022-01-26,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,388
-60443,RP-G3-Refresher-Online,,2022-01-13,200,FALSE,Group 3 Radiation Protection Refresher,0.0,1.0,389
-91890,FD-1004-Online,,2021-05-04,200,FALSE,Alpha Awareness,0.0,1.0,390
-58239,FIRE-1001-Online (REV 4.5),4.5,2022-01-04,200,FALSE,Fire Prevention (4.5),0.0,1.0,391
-20053,RP-1011-CRL-Online (Rev 1.2),1.2,2021-02-20,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,392
-56672,LGL-1003-Online,,2022-02-14,200,FALSE,Values and Ethics at CNL,0.0,1.0,393
-92212,OPS-9013-Online (Rev 1),1.0,2022-03-03,200,FALSE,Cost Course - Lubrication Basics (1.0),0.0,1.0,394
-57752,LGL-1003-Online,,2021-03-12,200,FALSE,Values and Ethics at CNL,0.0,1.0,395
-90155,FIRE-1001-Online (REV 4.5),4.5,2021-12-09,200,FALSE,Fire Prevention (4.5),0.0,1.0,396
-92158,FIRE-1001-Online,,2021-05-04,200,FALSE,Fire Prevention,0.0,1.0,397
-60032,LGL-1003-Online (REV 3.1),3.1,2021-12-06,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,398
-92192,RP-G4-Online (REV 2.6),2.6,2021-05-25,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,399
-92233,OSH-9102-Online (Rev. 1.0),1.0,2021-07-12,200,FALSE,Cost Course - Crystalline Silica Awareness (1.0),0.0,1.0,400
-92560,RP-5009-CRL,,2022-03-28,200,FALSE,Radiation Protection Limits and Levels,0.0,1.0,401
-92380,IT-1019,1.0,2021-09-21,200,FALSE,VIRTUAL EDMS System Overview,1.0,0.0,402
-55480,ENG-1069-Online (REV 0.1),0.1,2021-11-09,200,FALSE,Fume Hood Safety (0.1),0.0,1.0,403
-91203,OSH-9045-Online (Rev 1),1.0,2021-07-20,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,404
-60306,OSH-9045-Online (Rev 1),1.0,2021-08-10,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,405
-58182,HR-1003-Online,,2021-05-27,200,FALSE,Fitness for Duty,0.0,1.0,406
-55447,EMP-1037-Online,,2022-01-18,200,FALSE,Emergency Procedure Refresher,0.0,1.0,407
-92065,OSH-9035-Online,,2021-05-12,200,FALSE,Back Injury Prevention,0.0,1.0,408
-92429,SECU-1008-Online,,2021-10-04,200,FALSE,*NEW HIRE* Security Awareness,0.0,0.0,409
-Seat 1,OSH-1004-VIRTUAL,1.0,2021-05-31,400,FALSE,VIRTUAL Cost Course - $222/Person - Lock Out / Tag Out,1.0,0.0,410
-90188,FIRE-1001-Online (REV 4.5),4.5,2021-09-17,200,FALSE,Fire Prevention (4.5),0.0,1.0,411
-CONT-3050,CNL-1010,1.0,2021-12-13,200,FALSE,CNL COVID-19 Pandemic Response,1.0,0.0,412
-92233,OSH-1042-Online,,2021-06-15,200,FALSE,WHMIS - 2015,0.0,1.0,413
-92066,OPEX-1005-Online,,2021-03-08,200,FALSE,Introducing the ImpAct Process at CNL,0.0,1.0,414
-91552,EMP-1037-Online,,2022-01-11,200,FALSE,Emergency Procedure Refresher,0.0,1.0,415
-92069,SECU-2008-Online,,2021-03-19,200,FALSE,Security Awareness Refresher,0.0,1.0,416
-55317,OSH-9070-Online (Rev 1),1.0,2021-07-22,400,FALSE,Cost Course - Arc Flash Safety for Canada (1.0),0.0,1.0,417
-91370,OSH-9045-Online (Rev 1),1.0,2021-07-22,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,418
-57458,ENG-1069-Online,,2022-04-10,200,FALSE,Fume Hood Safety,0.0,1.0,419
-55209,LGL-1003-Online (REV 2.4),2.4,2021-02-17,200,FALSE,Values and Ethics at CNL (2.4),0.0,1.0,420
-90917,TD-1018-Online,,2021-05-14,200,FALSE,CNL General Safety Orientation,0.0,1.0,421
-57863,OSH-9045-Online (Rev 1),1.0,2021-07-29,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,422
-27052,SECU-2008-Online (Rev 1.5),1.5,2021-10-26,200,FALSE,Security Awareness Refresher (1.5),0.0,1.0,423
-90895,OSH-9046-Online,,2021-07-20,200,FALSE,Hearing Conservation,0.0,1.0,424
-57626,RP-1011-CRL-Online (Rev 1.2),1.2,2021-08-04,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,425
-59247,LGL-1003-Online,,2022-02-28,200,FALSE,Values and Ethics at CNL,0.0,1.0,426
-92304,PHAI-1056-Online (REV 1.3),1.3,2021-07-27,200,FALSE,PHAI (Port Hope Area Initiative) Awareness (1.3),0.0,1.0,427
-91830,HR-1005,1.0,2021-12-08,200,FALSE,Mandatory Harassment and Violence Prevention Training,1.0,0.0,428
-58987,EMP-1037-Online,,2022-02-24,200,FALSE,Emergency Procedure Refresher,0.0,1.0,429
-57685,WL-307,1.0,2021-02-24,200,FALSE,Job Safety Analysis,1.0,0.0,430
-92371,OSH-1006-VIRTUAL,,2021-09-13,200,FALSE,VIRTUAL Cost Course - $222/Person - Confined Space Entry,0.0,1.0,431
-58021,PB-1001-Online (REV 1.1),1.1,2022-04-04,200,FALSE,Pressure Boundary Awareness (1.1),0.0,1.0,432
-54311,FIRE-1001-Online,,2021-03-24,200,FALSE,Fire Prevention,0.0,1.0,433
-50802,LGL-1003-Online,,2022-03-21,200,FALSE,Values and Ethics at CNL,0.0,1.0,434
-61061,LGL-1003-Online (Rev 2.5),2.5,2021-08-09,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,435
-56797,BAS-9002-Online,,2021-10-21,200,FALSE,Desigo CC Overview,0.0,1.0,436
-92210,OSH-9045-Online,,2021-07-15,200,FALSE,Hand Safety,0.0,1.0,437
-CONT-2740,RP-G3-04,,2021-02-11,200,FALSE,Group 3 - Radiation Protection,0.0,0.0,438
-60054,OSH-9076-Online (Rev 1),1.0,2021-04-26,200,FALSE,Cost Course - Electric Shock (1.0),0.0,1.0,439
-92190,OPEX-1005-Online (REV 1.4),1.4,2021-06-15,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,440
-10843,OSH-9105-Online (Rev. 1),1.0,2021-05-11,400,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,1.0,441
-91716,OSH-1006,,2021-06-21,200,FALSE,Confined Space Entry,0.0,1.0,442
-AE00087,TD-1018-Online,,2021-11-17,200,FALSE,CNL General Safety Orientation,0.0,0.0,443
-56649,OSH-9070-Online,,2021-01-20,400,FALSE,Arc Flash Safety for Canada,0.0,1.0,444
-50874,OSH-9104-EXAM (Rev.1),1.0,2021-05-04,200,FALSE,Trenching Safety Exam (1.0),0.0,0.0,445
-90768,OSH-9045-Online (Rev 1),1.0,2021-07-30,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,446
-91940,LGL-1003-Online,,2021-09-21,200,FALSE,Values and Ethics at CNL,0.0,1.0,447
-CONT-1861  ,WL-306,1.0,2021-10-25,200,FALSE,Pre Job Brief,1.0,0.0,448
-92501,CNL-1009-Online,,2021-11-17,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,0.0,1.0,449
-CONT-2978,RP-G3,1.0,2021-10-05,200,FALSE,Group 3 - Radiation Protection Training,1.0,0.0,450
-52161,OSH-9045-Online,,2022-01-18,200,FALSE,Hand Safety,0.0,1.0,451
-91265,FIRE-1001-Online,,2022-02-18,200,FALSE,Fire Prevention,0.0,1.0,452
-57860,OPS-9029-Online (Rev 1),1.0,2021-09-27,200,FALSE,Cost Course - Electrical Motor Basics (1.0),0.0,1.0,453
-53201,OSH-9076-Online,,2021-02-02,200,FALSE,Electric Shock,0.0,1.0,454
-54391,RP-G3-Refresher-Online,,2021-09-23,400,FALSE,Group 3 Radiation Protection Refresher,0.0,1.0,455
-91693,OSH-1001-Online (Rev 1.),1.1,2021-04-09,400,FALSE,Crane - Safe Indoor Hoist - Theory (1.1),0.0,0.0,456
-92094,CNL-1009-Online (Rev 1.2),1.2,2021-03-23,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.2),0.0,1.0,457
-61105,FIRE-1001-Online,,2021-04-01,200,FALSE,Fire Prevention,0.0,1.0,458
-92669,RP-G4-Online (REV 2.7),2.7,2022-04-20,200,FALSE,Group 4 Radiation Protection (2.7),0.0,1.0,459
-56623,OSH-9045-Online (Rev 1),1.0,2021-03-24,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,460
-91948,TDG-1007-H-EXAM (REV 1.4),1.4,2021-01-22,400,FALSE,TDG Class 7 Radioactive Material - Handler Exam (1.4),0.0,1.0,461
-56984,RP-G3-Refresher-Online (REV 1.4),1.4,2021-08-10,400,FALSE,Group 3 Radiation Protection Refresher (1.4),0.0,1.0,462
-55082,SECU-1006-Online,,2021-05-03,200,FALSE,Level 2 Security Clearance Awareness,0.0,1.0,463
-60008,OSH-9045-Online,,2021-07-07,200,FALSE,Hand Safety,0.0,1.0,464
-54683,OSH-9045-Online,,2021-08-06,200,FALSE,Hand Safety,0.0,1.0,465
-91302,SECU-2008-Online,,2022-02-17,200,FALSE,Security Awareness Refresher,0.0,1.0,466
-92222,OSH-1034-Online,,2021-06-08,200,FALSE,Hazard Prevention Program,0.0,1.0,467
-92566,OPEX-1005-Online (REV 1.4),1.4,2022-02-15,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,0.0,468
-90790,SECU-2008-Online,,2021-04-27,200,FALSE,Security Awareness Refresher,0.0,1.0,469
-60772,OSH-9063-Online,,2021-06-01,200,FALSE,Aerial Work Platform Safety for Non-operators,0.0,1.0,470
-59781,OSH-9076-Online,,2021-03-18,200,FALSE,Electric Shock,0.0,1.0,471
-91736,PROC-1021-Online,,2021-01-19,200,FALSE,Canadian Nuclear Laboratories  Supplier Code of Conduct,0.0,0.0,472
-91796,TEST-CLEAN (Rev 1.2),1.2,2021-03-26,200,FALSE,TEST- CLEANUP-Darby (1.2),0.0,0.0,473
-95075,LGL-1003-Online (REV 3.3),3.3,2022-04-18,200,FALSE,Values and Ethics at CNL (3.3),0.0,0.0,474
-92120,RP-G4-Online,,2021-04-07,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,475
-20241,NMMS-1010-Online,,2022-03-23,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,476
-57994,HR-1002-Online (Rev 1),1.0,2021-03-01,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,477
-10879,HR-1002-Online (Rev 1),1.0,2021-02-25,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,478
-90180,PI-9012-Online (Rev 1),1.0,2021-07-13,200,FALSE,Cost Course - Industrial Housekeeping (1.0),0.0,1.0,479
-92278,TD-1016-Online (REV 1.4),1.4,2021-07-05,200,FALSE,Preventing Violence in the Workplace (1.4),0.0,1.0,480
-61865,OSH-1001-Online (REV 1.4),1.4,2022-04-01,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.4),0.0,1.0,481
-61166,LGL-1003-Online,,2021-05-05,200,FALSE,Values and Ethics at CNL,0.0,1.0,482
-688,OSH-3004-CRL-B137,,2021-11-24,200,FALSE,WHMIS Workplace Specific Checklist,0.0,1.0,483
-55651,900-510000-MCP-015,,2021-03-29,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,484
-61524,FIN-1004-Online,,2021-04-20,200,FALSE,Financial Delegation Of Authority,0.0,0.0,485
-59561,TF-510220-OJTN-050,,2021-06-03,200,FALSE,Tritide package operating procedure - WAIVER,0.0,1.0,486
-91783,QUAL-1018-Online (Rev 3),3.0,2021-07-09,200,FALSE,Quality - Software Configuration Management (3.0),0.0,1.0,487
-58277,LGL-1003-Online,,2021-11-18,200,FALSE,Values and Ethics at CNL,0.0,1.0,488
-92295,NMMS-1011-Online (REV 3.5),3.5,2021-07-13,200,FALSE,Nuclear Criticality Safety Program Awareness (3.5),0.0,1.0,489
-60752,OSH-9045-Online,,2021-09-07,200,FALSE,Hand Safety,0.0,1.0,490
-92212,OPS-9005-Online,,2022-03-16,400,FALSE,Relay Basics and Types,0.0,1.0,491
-55773,BAS-9002-Online,,2021-12-04,200,FALSE,Desigo CC Overview,0.0,1.0,492
-90669,SECU-2008-Online (rev 1.2),1.2,2021-04-28,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,493
-56127,HR-9003,,2021-05-18,200,FALSE,Performance Management: Goal Setting,0.0,1.0,494
-10879,MS-3001-Online (REV 1.1),1.1,2021-02-25,200,FALSE,Integrated Work Control Practical Applications Exam (1.1),0.0,1.0,495
-55935,TDG-1007-H-Virtual,,2021-01-27,200,FALSE, TDG Class 7 Radioactive Material - Handler (Virtual),0.0,0.0,496
-61319,OSH-9096-Online (Rev 1),1.0,2021-02-04,200,FALSE,Cost Course - Cold Stress (1.0),0.0,0.0,497
-90069,OSH-5001,,2021-09-29,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,498
-92316,EMP-1037-Online (REV 0.1),0.1,2022-01-24,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,499
-92366,OSH-1007,1.0,2021-10-21,200,FALSE,Asbestos Module 6E,1.0,0.0,500
-56205,WL-FIRE-008,,2021-12-15,200,FALSE,ESO FIRE - PORTABLE LADDERS,0.0,1.0,501
-53092,RP-G4-Online (REV 2.6),2.6,2021-09-09,200,FALSE,Group 4 Radiation Protection (2.6),0.0,1.0,502
-57549,EMP-1037-Online,,2022-03-21,200,FALSE,Emergency Procedure Refresher,0.0,1.0,503
-56676,ERM-1004-Online,,2022-04-18,200,FALSE,Decommissioning and Demolition Program Awareness,0.0,1.0,504
-92271,RP-G4-Online,,2021-07-05,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,505
-92519,FIRE-1001-Online (REV 4.5),4.5,2021-12-09,400,FALSE,Fire Prevention (4.5),0.0,1.0,506
-92270,LGL-1003-Online,,2021-07-05,200,FALSE,Values and Ethics at CNL,0.0,1.0,507
-61566,LGL-1003-Online,,2021-04-08,200,FALSE,Values and Ethics at CNL,0.0,1.0,508
-57710,OSH-9045-Online,,2021-11-01,200,FALSE,Hand Safety,0.0,1.0,509
-54548,HR-1002-Online,,2021-03-01,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,510
-92141,OSH-1042-Online (REV 12.4),12.4,2021-04-20,200,FALSE,WHMIS - 2015 (12.4),0.0,1.0,511
-55927,FA/FM-Refresher,,2021-10-05,200,FALSE,FA and FM Maintenance of Qualification,0.0,1.0,512
-57221,OSH-9045-Online (Rev 1),1.0,2021-07-23,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,513
-90655,OSH-3003-E,,2021-02-19,200,FALSE,Aerial Work Platform Practical - Single Person Up-Up,0.0,1.0,514
-57755,SECU-2008-Online,,2021-08-06,200,FALSE,Security Awareness Refresher,0.0,1.0,515
-2570,TD-9040,1.0,2021-01-07,400,FALSE,Writing CNL Scopes of Work for External Resources,1.0,0.0,516
-55913,SECU-2008-Online (REV 1.0),1.0,2021-04-14,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,517
-92023,OPEX-1005-Online (REV 1.4),1.4,2021-02-08,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,0.0,518
-56328,ERM-1001-Online (Rev 1.3),1.3,2021-07-21,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,519
-55771,ERM-1001-Online (Rev 1.3),1.3,2021-07-26,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,520
-60785,SECU-2008-Online,,2021-04-08,200,FALSE,Security Awareness Refresher,0.0,1.0,521
-54784,LGL-1003-Online,,2021-04-29,200,FALSE,Values and Ethics at CNL,0.0,1.0,522
-58331,OSH-3003-B,1.0,2021-04-21,200,FALSE,Aerial Work Platform Practical - Articulating Boom 60 ft (or less),1.0,0.0,523
-54817,FIN-1004-Online (REV 1),1.0,2021-11-04,200,FALSE,Financial Delegation Of Authority (1.0),0.0,1.0,524
-91764,LGL-1003-Online (REV 2.3),2.3,2021-02-11,200,FALSE,Values and Ethics at CNL (2.3),0.0,1.0,525
-53569,OSH-9045-Classroom,,2021-07-30,200,FALSE,Hand Safety - Group Delivery,0.0,1.0,526
-54548,EMP-1037-Online (REV 0.1),0.1,2022-01-13,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,527
-92279,RP-Misc-06,,2021-11-12,200,FALSE,Responsible User Radiation Source (R3),0.0,1.0,528
-57994,HR-9005,,2021-07-14,200,FALSE,Performance Management: Check-in Conversations,0.0,1.0,529
-56665,RP-5009-CRL,,2022-03-31,200,FALSE,Radiation Protection Limits and Levels,0.0,1.0,530
-90833,HR-1005,1.0,2021-11-08,400,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,1.0,0.0,531
-60980,OSH-9056-Online,,2022-03-28,400,FALSE,Trenching and Excavation Safety,0.0,1.0,532
-92380,TD-1018-Online,,2021-09-14,200,FALSE,CNL General Safety Orientation,0.0,0.0,533
-54184,OSH-9045-Online (Rev 1),1.0,2021-11-03,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,534
-90649,FIN-1003-Online,,2021-01-06,200,FALSE,ExpenseCNL (Concur) System User Training,0.0,1.0,535
-CONT-3166 ,RP-G3-Refresher-Online (REV 1.5),1.5,2022-03-21,200,FALSE,Group 3 Radiation Protection Refresher (1.5),0.0,0.0,536
-90159,FIRE-1001-Online,,2022-02-03,200,FALSE,Fire Prevention,0.0,1.0,537
-54286,ERM-1001-Online (Rev 1.3),1.3,2021-05-07,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,538
-90159,FIN-1004-Online,,2021-03-17,200,FALSE,Financial Delegation Of Authority,0.0,1.0,539
-92437,FIRE-1001-Online,,2021-10-04,400,FALSE,Fire Prevention,0.0,1.0,540
-59493,EMP-1037-Online (REV 0),0.0,2022-01-12,200,FALSE,Emergency Procedure Refresher (0.0),0.0,1.0,541
-59835,FIRE-1001-Online,,2021-02-15,400,FALSE,Fire Prevention,0.0,1.0,542
-56643,S&T-3013,,2021-11-16,200,FALSE,Receiving Material into Building 405,0.0,1.0,543
-61804,LGL-1003-Online (Rev 2.5),2.5,2021-04-29,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,544
-92105,RP-G4-Online (REV 2.5),2.5,2021-04-05,200,FALSE,Group 4 Radiation Protection (2.5),0.0,1.0,545
-61945,ENG-1069-Online,,2022-03-22,200,FALSE,Fume Hood Safety,0.0,1.0,546
-57941,OSH-9045-Online (Rev 1),1.0,2021-07-26,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,547
-92295,OSH-9056-Online,,2021-07-21,400,FALSE,Trenching and Excavation Safety,0.0,1.0,548
-789,SECU-2008-Online (Rev 1.6),1.6,2022-01-20,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,549
-59912,OSH-9045-Online (Rev 1),1.0,2021-07-15,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,550
-90456,QUAL-1013-Online,,2021-10-18,200,FALSE,FME Awareness CRL,0.0,1.0,551
-90834,OSH-1005,,2021-08-31,400,FALSE,Working at Heights,0.0,1.0,552
-59539,RP-1011-CRL-Online (Rev 1.2),1.2,2021-01-29,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,553
-92251,OSH-1006-VIRTUAL,,2021-08-25,200,FALSE,Confined Space Entry (Virtual),0.0,1.0,554
-53716,RP-1003,1.0,2021-02-09,200,FALSE,Radiation Protection PPE&C Dress and Undress,1.0,0.0,555
-56443,LGL-1003-Online (Rev 2.5),2.5,2021-06-30,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,556
-92378,EMP-1021-CRL-VIRTUAL,1.0,2022-01-27,200,FALSE,VIRTUAL Officer in Charge and Emergency Steward,1.0,0.0,557
-60339,LGL-1003-Online,,2021-02-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,558
-56014,EMP-1037-Online,,2022-01-13,200,FALSE,Emergency Procedure Refresher,0.0,1.0,559
-92547,EMP-1037-Online,,2022-01-13,200,FALSE,Emergency Procedure Refresher,0.0,1.0,560
-91753,LGL-1003-Online,,2022-04-06,200,FALSE,Values and Ethics at CNL,0.0,1.0,561
-50067,RP-1011-CRL-Online (Rev 1.2),1.2,2021-02-11,200,FALSE,Transfer and Storage of RAM- Tag Update Training (1.2),0.0,1.0,562
-50076,OSH-9036-Online (Rev 1),1.0,2021-10-06,200,FALSE,Cost Course - Chemical Hazards at a Mine (1.0),0.0,1.0,563
-61924,OSH-9076-Online,,2022-01-04,200,FALSE,Electric Shock,0.0,1.0,564
-51607,ERM-1004-Online  (REV 1.2),1.2,2022-04-12,200,FALSE,Decommissioning and Demolition Program Awareness (1.2),0.0,1.0,565
-58207,LGL-1003-Online (REV 3.1),3.1,2021-11-19,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,566
-91723,LGL-1003-Online,,2021-06-14,200,FALSE,Values and Ethics at CNL,0.0,1.0,567
-91461,OSH-9096-Online (Rev 1),1.0,2021-01-20,200,FALSE,Cost Course - Cold Stress (1.0),0.0,0.0,568
-10667,SECU-2008-Online,,2021-06-01,200,FALSE,Security Awareness Refresher,0.0,1.0,569
-92619,CNL-1009-Online,,2022-01-24,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,0.0,1.0,570
-95028,TD-1018-Online,,2022-03-21,200,FALSE,CNL General Safety Orientation,0.0,1.0,571
-92106,OSH-9056-Online (Rev 1),1.0,2021-04-15,200,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,0.0,572
-92554,OSH-1005-Online (REV 1.7),1.7,2022-01-21,200,FALSE,Working At Heights Theory (1.7),0.0,1.0,573
-58715,SECU-1006-Online (Rev 2.4),2.4,2021-01-14,200,FALSE,Level 2 Security Clearance Awareness (2.4),0.0,1.0,574
-53586,RP-Misc-39,,2022-04-14,400,FALSE,FD BLOCK - Air Supplied Suit Operation,0.0,1.0,575
-92280,LGL-1003-Online (Rev 2.5),2.5,2021-07-05,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,576
-59371,SECU-2008-Online (Rev 1.6),1.6,2022-03-29,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,577
-92122,OSH-1006-VIRTUAL,,2021-04-26,200,FALSE,Confined Space Entry (Virtual),0.0,1.0,578
-90947,OSH-3002-E,,2021-09-27,200,FALSE,Lift Truck Practical - Reach Truck,0.0,1.0,579
-CONT-3084,CNL-1010,1.0,2022-01-31,200,FALSE,CNL COVID-19 Pandemic Response,1.0,0.0,580
-90855,OSH-1004-Online,,2022-03-23,200,FALSE,Lock Out Tag Out Exam,0.0,1.0,581
-59561,OSH-1004-Online (REV 1.3),1.3,2021-11-01,200,FALSE,Lock Out Tag Out Exam (1.3),0.0,1.0,582
-92081,OSH-9070-Online,,2021-03-22,200,FALSE,Arc Flash Safety for Canada,0.0,1.0,583
-60282,OSH-9102-Online,,2022-04-19,400,FALSE,Crystalline Silica Awareness,0.0,1.0,584
-92366,OSH-1046-Online (Rev 1),1.0,2021-08-31,200,FALSE,Heat Stress (1.0),0.0,0.0,585
-61865,FD-1004-Online,,2021-06-09,200,FALSE,Alpha Awareness,0.0,1.0,586
-90392,LGL-1003-Online,,2021-11-18,400,FALSE,Values and Ethics at CNL,0.0,1.0,587
-53590,OSH-9070-Online (Rev 1),1.0,2021-02-25,200,FALSE,Cost Course - Arc Flash Safety for Canada (1.0),0.0,1.0,588
-92125,RP-G4-Online (REV 2.5),2.5,2021-04-12,200,FALSE,Group 4 Radiation Protection (2.5),0.0,1.0,589
-91617,LGL-1003-Online (REV 3.3),3.3,2022-03-28,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,590
-DS::1720 ,WL-318,1.0,2021-03-22,200,FALSE,Return to Work Radiation Protection Training for Non-Radiation Protection Workers,1.0,0.0,591
-95070,RP-G4-Online,,2022-03-28,200,FALSE,Group 4 Radiation Protection Training,0.0,0.0,592
-58520,LGL-1003-Online,,2022-03-01,200,FALSE,Values and Ethics at CNL,0.0,1.0,593
-92065,FD-1001-Online,,2021-07-13,200,FALSE,Decommissioning Process Awareness Training for Employees,0.0,1.0,594
-92312,OSH-5001,,2021-10-13,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,595
-53081,OSH-9076-Online (Rev 1),1.0,2021-02-26,200,FALSE,Cost Course - Electric Shock (1.0),0.0,1.0,596
-60917,OSH-9045-Online,,2021-09-24,200,FALSE,Hand Safety,0.0,1.0,597
-91109,OSH-3003-E,,2021-03-05,200,FALSE,Aerial Work Platform Practical - Single Person Up-Up,0.0,1.0,598
-20076,LGL-1003-Online (Rev 2.5),2.5,2021-09-11,200,FALSE,Values and Ethics at CNL (2.5),0.0,0.0,599
-95052,OPEX-1005-Online (REV 1.4),1.4,2022-04-05,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,600
-59486,OSH-1005-Online (REV 1.6),1.6,2021-11-03,200,FALSE,Working At Heights Theory (1.6),0.0,1.0,601
-90605,OSH-1004-VIRTUAL,1.0,2021-03-29,200,FALSE,Lock Out / Tag Out (Virtual),1.0,0.0,602
-60533,FIRE-1001-Online (REV 4.5),4.5,2022-04-05,200,FALSE,Fire Prevention (4.5),0.0,1.0,603
-92409,RP-Misc-39,,2022-03-23,200,FALSE,Air Supplied Suit Operation,0.0,1.0,604
-54107,OSH-9070-Online (Rev 1),1.0,2021-02-09,200,FALSE,Cost Course - Arc Flash Safety for Canada (1.0),0.0,1.0,605
-55532,WMA-3009,,2021-08-18,200,FALSE,Advenger 2805 Scrubber,0.0,1.0,606
-59862,NMMS-2002-Online (REV 3.6),3.6,2021-10-26,200,FALSE,Nuclear Criticality Safety Refresher (3.6),0.0,1.0,607
-21027,OSH-9045-Online (Rev 1),1.0,2021-07-20,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,608
-50780,FIN-1003-Online (Rev 1),1.0,2022-01-18,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,609
-54558,OSH-9045-Online,,2021-09-01,400,FALSE,Hand Safety,0.0,1.0,610
-52705,FIRE-1001-Online (Rev 4.4),4.4,2021-05-17,200,FALSE,Fire Prevention (4.4),0.0,1.0,611
-58474,OSH-9063-Online (Rev 1.1),1.1,2021-05-19,200,FALSE,Cost Course - Aerial Work Platform Safety for Non-operators (1.1),0.0,1.0,612
-58547,OSH-9070-Online,,2021-03-23,400,FALSE,Arc Flash Safety for Canada,0.0,1.0,613
-58218,900-510000-MCP-015,,2021-03-18,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,614
-92244,SECU-1008-Online (REV 3.9),3.9,2021-06-22,200,FALSE,Security Awareness (3.9),0.0,1.0,615
-92612,OPEX-1005-Online (REV 1.4),1.4,2022-01-24,200,FALSE,Introducing the ImpAct Process at CNL (1.4),0.0,1.0,616
-61187,OSH-9045-Online (Rev 1),1.0,2021-07-20,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,617
-56851,EMP-1037-Online (REV 0.2),0.2,2022-03-02,200,FALSE,Emergency Procedure Refresher (0.2),0.0,1.0,618
-91625,OSH-9046-Online (Rev 1),1.0,2021-07-20,200,FALSE,Cost Course - Hearing Conservation (1.0),0.0,1.0,619
-91825,EMP-1037-Online (REV 0.1),0.1,2022-01-26,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,620
+10083,SL-9002-,,2021-10-21,200,FALSE,Nuclear Safety & Control Regulations and Act COG Training,0.0,1.0,0
+10083,WL-202,,2021-11-18,200,FALSE,Respirator Fit Test,0.0,1.0,1
+10083,900-510000-MCP-015 (REV 1),1.0,2021-03-29,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,2
+10153,EMP-1037-ONLINE (REV 0),0.0,2022-01-12,200,FALSE,Emergency Procedure Refresher (0.0),0.0,1.0,3
+10153,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-01,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,4
+10172,LGL-1003-ONLINE (REV 2.5),2.5,2021-05-25,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,5
+10172,OSH-9045-ONLINE (REV 1),1.0,2021-07-06,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,6
+10083,LGL-1003-ONLINE (REV 2.5),2.5,2021-10-12,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,7
+10083,OSH-9045-ONLINE (REV 1),1.0,2021-09-22,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,8
+10083,SL-9002,,2021-10-21,200,FALSE,COST COURSE $1867/Person Nuclear Safety & Control Regulations and Act COG Training,0.0,1.0,9
+10083,LGL-1003-ONLINE,,2021-10-12,200,FALSE,Values and Ethics at CNL,0.0,1.0,10
+10083,OSH-5001,,2021-10-12,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,11
+10153,FIRE-1001-ONLINE (REV 4.4),4.4,2021-04-01,200,FALSE,Fire Prevention (4.4),0.0,1.0,12
+10153,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-01,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,13
+10153,LGL-1003-ONLINE (REV 3.3),3.3,2022-03-15,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,14
+10216,ERM-1004-ONLINE (REV 1.10),1.1,2022-04-05,200,FALSE,Decommissioning and Demolition Program Awareness (1.10),0.0,1.0,15
+10172,ERM-1001-ONLINE (REV 1.3),1.3,2021-07-14,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,16
+10172,FIRE-1001-ONLINE (REV 4.4),4.4,2021-05-17,200,FALSE,Fire Prevention (4.4),0.0,1.0,17
+10172,900-510000-MCP-015 (REV 1),1.0,2021-03-25,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,18
+10172,LGL-1003-ONLINE,,2021-05-25,200,FALSE,Values and Ethics at CNL,0.0,1.0,19
+10216,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-18,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,20
+10216,ERM-1001-ONLINE (REV 1.3),1.3,2021-05-04,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,21
+10216,OSH-9056-ONLINE (REV 1),1.0,2021-04-21,200,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,1.0,22
+10216,QUAL-1016-ONLINE (REV 2.2),2.2,2021-12-09,200,FALSE,Nonconformities (2.2),0.0,1.0,23
+10216,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-12,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,24
+10216,PROC-1019-WL,,2022-02-15,200,FALSE,CNL Contractor Management Overview,0.0,1.0,25
+10172,900-510000-MCP-015,,2021-03-25,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,26
+10172,OSH-5001,,2021-10-07,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,27
+10216,ERM-1004-ONLINE  (REV 1.2),1.2,2022-04-12,200,FALSE,Decommissioning and Demolition Program Awareness (1.2),0.0,1.0,28
+10216,LGL-1003-ONLINE (REV 3.1),3.1,2021-11-16,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,29
+10216,OSH-9050-ONLINE (REV 1),1.0,2021-02-15,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,30
+10216,PROC-1019-WL,,2022-03-10,400,FALSE,CNL Contractor Management Overview,0.0,1.0,31
+10083,900-510000-MCP-015,,2021-03-29,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,32
+10153,OSH-9045-ONLINE (REV 1),1.0,2021-08-20,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,33
+10153,LGL-1003-ONLINE,,2021-04-01,200,FALSE,Values and Ethics at CNL,0.0,1.0,34
+10153,LGL-1003-ONLINE,,2022-03-15,200,FALSE,Values and Ethics at CNL,0.0,1.0,35
+10172,SECU-2008-ONLINE (REV 1.2),1.2,2021-05-17,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,36
+10216,OPEX-3002,,2021-03-29,200,FALSE,Proof of ACA Investigation Conduct,0.0,1.0,37
+10216,900-510000-MCP-015,,2021-03-16,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,38
+10241,OSH-1003-ONLINE (REV 1.3),1.2,2021-06-23,400,FALSE,Aerial Work Platform Theory (1.2),0.0,1.0,39
+10241,OSH-9096-ONLINE (REV 1),1.0,2021-01-12,400,FALSE,Cost Course - Cold Stress (1.0),0.0,1.0,40
+10241,OSH-9104-ONLINE (REV.1),1.0,2021-06-10,200,FALSE,Cost Course - Trenching Safety Theory (1.0),0.0,1.0,41
+10216,LGL-1003-ONLINE,,2021-11-16,200,FALSE,Values and Ethics at CNL,0.0,1.0,42
+10216,OSH-5001,,2021-10-04,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,43
+10216,OSH-5001,,2021-09-29,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,44
+10241,FIRE-1001-ONLINE (REV 4.4),4.4,2021-04-26,200,FALSE,Fire Prevention (4.4),0.0,1.0,45
+10241,OSH-9031-ONLINE (REV 1),1.0,2021-01-20,200,FALSE,Cost Course - Asbestos Awareness (1.0),0.0,1.0,46
+10241,OSH-9104-EXAM (REV.1),1.0,2021-06-10,400,FALSE,Trenching Safety Exam (1.0),0.0,1.0,47
+10241,SECU-2008-ONLINE (REV 1.3),1.3,2021-06-14,400,FALSE,Security Awareness Refresher (1.3),0.0,1.0,48
+10241,900-510000-MCP-015 (REV 1),1.0,2021-03-23,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,49
+10256,OSH-9045-ONLINE (REV 1),1.0,2021-11-03,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,50
+10256,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-12,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,51
+10256,LGL-1003-ONLINE,,2021-01-04,200,FALSE,Values and Ethics at CNL,0.0,1.0,52
+10302,WL-306,1.0,2021-02-10,400,FALSE,Pre Job Brief,1.0,0.0,53
+10347,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-17,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,54
+10216,WL-312,,2021-07-26,400,FALSE,GET Training,0.0,1.0,55
+10216,PROC-1019-WL,,2022-02-15,200,FALSE,CNL Contractor Management Overview,0.0,1.0,56
+10216,HR-1002-ONLINE,,2021-03-02,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,57
+10241,ERM-1001-ONLINE (REV 1.3),1.3,2021-06-09,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,58
+10241,FIN-1003-ONLINE (REV 1),1.0,2021-01-21,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,59
+10241,OSH-1003-ONLINE (REV 1.3),1.2,2021-06-23,200,FALSE,Aerial Work Platform Theory (1.2),0.0,1.0,60
+10241,OSH-9104-EXAM (REV.1),1.0,2021-06-10,200,FALSE,Trenching Safety Exam (1.0),0.0,1.0,61
+10241,OSH-9104-ONLINE (REV.1),1.0,2021-06-10,200,FALSE,Cost Course - Trenching Safety Theory (1.0),0.0,1.0,62
+10241,OSH-9105-ONLINE (REV. 1),1.0,2021-06-22,200,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,1.0,63
+10241,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,64
+10241,WLO-20-020,,2021-02-04,200,FALSE,MEMO - WLO-20-020 - Only Authorized Personnel to Acknowledge WL Site Alarms,0.0,1.0,65
+10241,LGL-1003-ONLINE,,2022-01-04,200,FALSE,Values and Ethics at CNL,0.0,1.0,66
+10241,PHAI-1101-ONLINE,,2021-06-10,200,FALSE,OSHcast 001 - Working Alone,0.0,1.0,67
+10256,EMP-1037-ONLINE (REV 0),0.0,2022-01-12,200,FALSE,Emergency Procedure Refresher (0.0),0.0,1.0,68
+10256,LGL-1003-ONLINE (REV 2.2),2.2,2021-01-04,200,FALSE,Values and Ethics at CNL (2.2),0.0,1.0,69
+10347,900-510000-MCP-015 (REV 1),1.0,2021-03-23,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,70
+10347,LGL-1003-ONLINE,,2021-12-21,200,FALSE,Values and Ethics at CNL,0.0,1.0,71
+10347,OSH-5001,,2021-09-29,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,72
+10367,ODT-698-WL,1.0,2021-07-27,200,FALSE,WL Work Permit,1.0,0.0,73
+10367,ODT-698-WL,1.0,2021-07-16,400,FALSE,WL Work Permit,1.0,0.0,74
+10367,ODT-WL-801,1.0,2021-07-16,400,FALSE,Vehicle Spotter and Guide Person,1.0,0.0,75
+10367,OSH-1007,1.0,2021-07-16,400,FALSE,Asbestos Module 6E,1.0,0.0,76
+10396,FIRE-1001-ONLINE (REV 4.4),4.4,2021-03-23,200,FALSE,Fire Prevention (4.4),0.0,0.0,77
+10404,OSH-9105-ONLINE (REV. 1),1.0,2021-05-12,400,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,1.0,78
+1043,LGL-1003-ONLINE,,2022-02-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,79
+1043,LGL-1003-ONLINE,,2021-07-22,200,FALSE,Values and Ethics at CNL,0.0,1.0,80
+1043,OSH-5001,,2021-09-28,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,81
+10474,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-06,200,FALSE,Security Awareness Refresher (1.0),0.0,0.0,82
+10474,OSH-1007,1.0,2021-01-12,200,FALSE,Asbestos Module 6E,1.0,0.0,83
+10474,WL-306,1.0,2021-03-30,200,FALSE,Pre Job Brief,1.0,0.0,84
+10474,WL-308,1.0,2021-03-30,200,FALSE,Integrated Work Control,1.0,0.0,85
+10474,TD-2000-WL,1.0,2021-09-15,200,FALSE,GET General Employee Training,1.0,0.0,86
+10474,WL-304,1.0,2021-04-13,200,FALSE,Work Permit Authorization Process,1.0,0.0,87
+10474,WL-307,1.0,2021-04-13,200,FALSE,Job Safety Analysis,1.0,0.0,88
+10474,900-510000-MCP-015,,2021-03-12,200,FALSE,Harassment and Violance Free Workplace,0.0,0.0,89
+10474,OSH-1004-ONLINE,,2021-01-07,200,FALSE,Lock Out Tag Out Exam,0.0,0.0,90
+10474,OSH-9105-ONLINE,1.0,2021-05-04,200,FALSE,Ergonomics for Industrial Environments for Canada,1.0,0.0,91
+10490,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-17,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,92
+10490,ERM-1001-ONLINE (REV 1.3),1.3,2021-05-31,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,93
+10490,OSH-9045-ONLINE (REV 1),1.0,2021-10-27,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,94
+10490,OSH-9096-ONLINE (REV 1),1.0,2022-01-17,200,FALSE,Cost Course - Cold Stress (1.0),0.0,1.0,95
+10490,SECU-2008-ONLINE (REV 1.5),1.5,2021-10-27,200,FALSE,Security Awareness Refresher (1.5),0.0,1.0,96
+10490,900-510000-MCP-015 (REV 1),1.0,2021-03-31,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,97
+10491,ERM-1001-ONLINE (REV 1.3),1.3,2021-05-03,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,98
+10216,FIN-1004-ONLINE (REV 1),1.0,2021-04-12,200,FALSE,Financial Delegation Of Authority (1.0),0.0,1.0,99
+10216,HR-1002-ONLINE (REV 1),1.0,2021-03-02,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,100
+10216,HR-1003-ONLINE (REV 0),0.0,2021-05-19,200,FALSE,Fitness for Duty (0),0.0,1.0,101
+10216,900-510000-MCP-015 (REV 1),1.0,2021-03-16,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,102
+10241,LGL-1003-ONLINE (REV 3.2),3.2,2022-01-04,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,103
+10241,OSH-9045-ONLINE (REV 1),1.0,2021-06-10,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,104
+10241,OSH-9051-ONLINE (REV 1),1.0,2021-01-20,200,FALSE,Cost Course - Lead-Based Paint Safety (1.0),0.0,1.0,105
+10241,OSH-9057-ONLINE (REV 1),1.0,2021-06-10,200,FALSE,Cost Course - Trenching and Excavation Soil Properties (1.0),0.0,1.0,106
+10241,OSH-9064-ONLINE (REV 1),1.0,2021-01-19,200,FALSE,Cost Course - Forklift Safety for Non-Operators (1.0),0.0,1.0,107
+10241,OSH-9096-ONLINE (REV 1),1.0,2021-01-13,200,FALSE,Cost Course - Cold Stress (1.0),0.0,1.0,108
+10241,TDG-1007-H-EXAM (REV 1.5),1.5,2021-06-03,200,FALSE,TDG Class 7 Radioactive Material - Handler Exam (1.5),0.0,1.0,109
+10241,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,110
+10396,900-510000-MCP-015 (REV 1),1.0,2021-03-23,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,0.0,111
+10396,FIRE-3001,1.0,2021-06-01,400,FALSE,Fire Extinguisher - Practical,1.0,0.0,112
+10404,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-07,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,113
+10404,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,114
+10404,LGL-1003-ONLINE,,2021-05-12,200,FALSE,Values and Ethics at CNL,0.0,1.0,115
+10404,OSH-5001,,2021-10-25,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,116
+1043,LGL-1003-ONLINE (REV 2.5),2.5,2021-07-22,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,117
+1043,OSH-9071-ONLINE (REV 1),1.0,2021-01-22,200,FALSE,Cost Course - Electrical Safety Introduction for Canada (1.0),0.0,1.0,118
+1043,OSH-9076-ONLINE (REV 1),1.0,2021-01-22,200,FALSE,Cost Course - Electric Shock (1.0),0.0,1.0,119
+1043,ENG-1069-ONLINE,,2021-11-15,200,FALSE,Fume Hood Safety,0.0,1.0,120
+10474,LGL-1003-ONLINE (REV 2.2),2.2,2021-01-06,200,FALSE,Values and Ethics at CNL (2.2),0.0,0.0,121
+10474,HR-1005,1.0,2021-11-08,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,1.0,0.0,122
+10474,OSH-1004,1.0,2021-01-07,200,FALSE,Lock Out / Tag Out,1.0,0.0,123
+10474,WL-304,1.0,2021-04-13,200,FALSE,Work Permit Authorization Process,1.0,0.0,124
+10474,WL-306,1.0,2021-03-22,400,FALSE,Pre Job Brief,1.0,0.0,125
+10474,WL-307,1.0,2021-01-27,200,FALSE,Job Safety Analysis,1.0,0.0,126
+10474,HR-1005,1.0,2021-11-08,200,FALSE,Mandatory Harassment and Violence Prevention Training,1.0,0.0,127
+10474,MS-1004-WL,1.0,2021-04-13,200,FALSE,Integrated Work Control 5 Core Elements,1.0,0.0,128
+10347,ERM-1001-ONLINE (REV 1.3),1.3,2021-06-09,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,129
+10347,LGL-1003-ONLINE (REV 3.2),3.2,2021-12-21,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,130
+10347,900-510000-MCP-015,,2021-03-23,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,131
+10367,ODT-WL-801,1.0,2021-07-26,200,FALSE,Vehicle Spotter and Guide Person,1.0,0.0,132
+10396,WL-315,1.0,2021-03-16,200,FALSE,Respectful Work Place,1.0,0.0,133
+10396,900-510000-MCP-015,,2021-03-23,200,FALSE,Harassment and Violance Free Workplace,0.0,0.0,134
+10396,FIRE-1001-ONLINE,4.7,2021-03-23,200,FALSE,Fire Prevention,1.0,0.0,135
+1043,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-15,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,136
+1043,LGL-1003-ONLINE (REV 3.2),3.2,2022-02-11,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,137
+1043,OSH-9070-ONLINE (REV 1),1.0,2021-01-08,200,FALSE,Cost Course - Arc Flash Safety for Canada (1.0),0.0,1.0,138
+10474,OSH-1004-ONLINE (REV 1.1),1.1,2021-01-07,200,FALSE,Lock Out Tag Out Exam (1.1),0.0,0.0,139
+10474,OSH-9105-ONLINE (REV. 1),1.0,2021-05-04,200,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,0.0,140
+10474,900-510000-MCP-015 (REV 1),1.0,2021-03-12,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,0.0,141
+10474,OSH-1004,1.0,2021-01-07,200,FALSE,Lock Out / Tag Out,1.0,0.0,142
+10474,OSH-1004-VIRTUAL,1.0,2021-01-07,200,FALSE,Lock Out / Tag Out (Virtual),1.0,0.0,143
+10474,WL-304,1.0,2021-02-02,200,FALSE,Work Permit Authorization Process,1.0,0.0,144
+10474,WL-305,1.0,2021-03-31,200,FALSE,Stop Work,1.0,0.0,145
+10474,WL-306,1.0,2021-03-30,200,FALSE,Pre Job Brief,1.0,0.0,146
+10474,WL-307,1.0,2021-01-27,200,FALSE,Job Safety Analysis,1.0,0.0,147
+10474,WL-313,1.0,2021-05-20,200,FALSE,QA Plan Awareness,1.0,0.0,148
+10474,OSH-1005-ONLINE,1.7,2021-10-05,200,FALSE,Working At Heights Theory,1.0,0.0,149
+10474,SECU-2029,1.0,2021-04-06,200,FALSE,Security Awareness Refresher,1.0,0.0,150
+10490,OSH-1001-ONLINE (REV 1.2),1.2,2021-02-23,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.2),0.0,1.0,151
+10490,TDG-1007-H-EXAM (REV 1.6),1.6,2021-07-26,200,FALSE,TDG Class 7 Radioactive Material - Handler Exam (1.6),0.0,1.0,152
+10490,900-510000-MCP-015,,2021-03-31,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,153
+10490,LGL-1003-ONLINE,,2021-10-25,200,FALSE,Values and Ethics at CNL,0.0,1.0,154
+10491,EMP-1037-ONLINE (REV 0),0.0,2022-01-12,200,FALSE,Emergency Procedure Refresher (0.0),0.0,1.0,155
+10491,OSH-9045-ONLINE (REV 1),1.0,2021-05-18,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,156
+10587,ERM-1001-ONLINE (REV 1.3),1.3,2021-08-10,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,157
+10587,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,158
+10587,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,159
+10587,HR-1002-ONLINE,,2021-03-03,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,160
+10597,FIN-1003-ONLINE (REV 1),1.0,2021-01-18,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,161
+10608,LGL-1003-ONLINE (REV 3.2),3.2,2022-01-11,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,162
+10625,HR-1003-ONLINE (REV 0),0.0,2021-05-22,200,FALSE,Fitness for Duty (0),0.0,1.0,163
+10625,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-05,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,164
+10625,ESO-1007,,2021-10-05,200,FALSE,Canadian Nuclear Security Fitness Test (NSO) - WL,0.0,1.0,165
+10625,WL-FIRE-011,,2021-10-14,200,FALSE,ESO FIRE - WATER SUPPLY,0.0,1.0,166
+10638,FIRE-1001-ONLINE (REV 4.5),4.5,2022-02-09,200,FALSE,Fire Prevention (4.5),0.0,1.0,167
+10638,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,168
+10641,SECU-1006-ONLINE,,2021-01-06,200,FALSE,Level 2 Security Clearance Awareness,0.0,0.0,169
+10642,NMMS-1002,1.0,2021-03-03,400,FALSE,Nuclear Criticality Safety,1.0,0.0,170
+10642,PB-1001-ONLINE,1.1,2021-01-05,200,FALSE,Pressure Boundary Awareness,1.0,0.0,171
+10645,OSH-9045-ONLINE (REV 1),1.0,2021-09-20,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,172
+10645,LGL-1003-ONLINE,,2022-02-09,200,FALSE,Values and Ethics at CNL,0.0,1.0,173
+10654,900-510000-MCP-015 (REV 1),1.0,2021-03-30,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,0.0,174
+10654,ERM-1002,1.0,2021-08-19,400,FALSE,Land Use Program (LUP) Awareness,1.0,0.0,175
+10491,900-510000-MCP-015,,2021-03-16,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,176
+10491,LGL-1003-ONLINE,,2021-04-27,200,FALSE,Values and Ethics at CNL,0.0,1.0,177
+10491,OSH-5001,,2021-10-07,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,178
+10587,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,179
+10597,FIRE-1001-ONLINE (REV 4.5),4.5,2021-07-09,200,FALSE,Fire Prevention (4.5),0.0,1.0,180
+10597,LGL-1003-ONLINE (REV 3.2),3.2,2021-12-15,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,181
+10597,OSH-9045-ONLINE (REV 1),1.0,2021-07-28,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,182
+10608,SECU-2008-ONLINE (REV 1.3),1.3,2021-06-03,200,FALSE,Security Awareness Refresher (1.3),0.0,1.0,183
+10625,LGL-1003-ONLINE (REV 3.3),3.3,2022-03-06,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,184
+10625,ESO-UOF-004,,2021-02-15,200,FALSE,SETCAN PBSC - ANNUAL QUALIFICATION,0.0,1.0,185
+10625,WL-FIRE-002,,2021-08-26,200,FALSE,ESO FIRE - PERFORM FIRE SAFETY SURVEY,0.0,1.0,186
+10625,WL-FIRE-004,,2021-07-25,200,FALSE,ESO FIRE - S.C.B.A. & P.A.S.S. ALARM,0.0,1.0,187
+10625,WL-FIRE-006,,2021-09-20,200,FALSE,ESO FIRE - ATTACK INTERIOR FIRE,0.0,1.0,188
+10625,WL-FIRE-009,,2021-09-04,200,FALSE,ESO FIRE - CONSERVE PROPERTY / SALVAGE,0.0,1.0,189
+10625,WL-FIRE-013,,2021-12-09,200,FALSE,ESO FIRE - OPERATE AS A MEMBER OF A RAPID INTERVENTION CREW,0.0,1.0,190
+10625,WL-FIRE-015,,2021-09-21,200,FALSE,ESO FIRE - MASTER STREAMS,0.0,1.0,191
+10638,ERM-1004-ONLINE (REV 1.10),1.1,2022-04-05,200,FALSE,Decommissioning and Demolition Program Awareness (1.10),0.0,1.0,192
+10638,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-01,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,193
+10638,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,194
+10638,OSH-5001,,2021-10-04,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,195
+10642,PB-1001-ONLINE (REV 0),0.0,2021-01-05,200,FALSE,Pressure Boundary Awareness (0.0),0.0,0.0,196
+10645,LGL-1003-ONLINE (REV 3.2),3.2,2022-02-09,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,197
+10474,WL-304,1.0,2021-04-13,200,FALSE,Work Permit Authorization Process,1.0,0.0,198
+10474,WL-305,1.0,2021-04-13,200,FALSE,Stop Work,1.0,0.0,199
+10474,WL-306,1.0,2021-04-13,200,FALSE,Pre Job Brief,1.0,0.0,200
+10474,WL-308,1.0,2021-04-13,200,FALSE,Integrated Work Control,1.0,0.0,201
+10474,WL-308,1.0,2021-03-30,200,FALSE,Integrated Work Control,1.0,0.0,202
+10474,LGL-1003-ONLINE,,2021-01-06,200,FALSE,Values and Ethics at CNL,0.0,0.0,203
+10474,OSH-9045-ONLINE,1.0,2021-07-14,200,FALSE,Hand Safety,1.0,0.0,204
+10490,SECU-1006-ONLINE (REV 2.7),2.7,2022-01-17,200,FALSE,Level 2 Security Clearance Awareness (2.7),0.0,1.0,205
+10490,SECU-1006-ONLINE,,2022-01-17,200,FALSE,Level 2 Security Clearance Awareness,0.0,1.0,206
+10491,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-27,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,207
+10491,SECU-2008-ONLINE (REV 1.2),1.2,2021-04-27,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,208
+10491,900-510000-MCP-015 (REV 1),1.0,2021-03-16,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,209
+10664,ERM-1004-ONLINE (REV 1.8),1.8,2021-11-01,200,FALSE,Decommissioning and Demolition Program Awareness (1.8),0.0,1.0,210
+10664,FIRE-1001-ONLINE (REV 4.5),4.5,2021-08-09,200,FALSE,Fire Prevention (4.5),0.0,1.0,211
+10664,HR-1002-ONLINE (REV 1),1.0,2021-10-17,200,FALSE,Performance Management / The Check-In Program (1.0),0.0,1.0,212
+10664,OSH-9045-ONLINE (REV 1),1.0,2021-05-23,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,213
+10664,HR-1002-ONLINE,,2021-10-17,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,214
+10664,LGL-1003-ONLINE,,2021-03-22,200,FALSE,Values and Ethics at CNL,0.0,1.0,215
+10667,OSH-9045-ONLINE (REV 1),1.0,2021-07-21,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,216
+10667,HR-9004,,2021-06-07,200,FALSE,Performance Management: Providing Effective Feedback,0.0,1.0,217
+10667,HR-9005,,2021-07-14,200,FALSE,Performance Management: Check-in Conversations,0.0,1.0,218
+10669,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-27,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,219
+10669,ERM-1001-ONLINE (REV 1.3),1.3,2021-07-21,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,220
+10669,LGL-1003-ONLINE,,2021-11-16,200,FALSE,Values and Ethics at CNL,0.0,1.0,221
+10669,RP-G4-ONLINE,,2022-03-07,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,222
+10669,SECU-1006-ONLINE,,2022-03-15,200,FALSE,Level 2 Security Clearance Awareness,0.0,1.0,223
+10677,ENG-1069-ONLINE (REV 0.1),0.1,2021-10-04,200,FALSE,Fume Hood Safety (0.1),0.0,1.0,224
+10677,FIRE-1001-ONLINE (REV 4.4),4.4,2021-03-08,400,FALSE,Fire Prevention (4.4),0.0,1.0,225
+10677,OSH-1001-ONLINE (REV 1.4),1.4,2022-03-21,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.4),0.0,1.0,226
+10681,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-20,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,227
+10681,LGL-1003-ONLINE,,2021-11-14,200,FALSE,Values and Ethics at CNL,0.0,1.0,228
+10691,OSH-1033-ONLINE (REV 1.3),1.3,2021-06-08,200,FALSE,Ladder Safety (1.3),0.0,1.0,229
+10691,OSH-9058-ONLINE (REV 1),1.0,2021-02-09,200,FALSE,Cost Course - Compressed Gas Cylinder Safety (1.0),0.0,1.0,230
+10691,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,231
+10697,LGL-1003-ONLINE (REV 3.3),3.3,2022-02-21,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,232
+10697,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-19,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,233
+10697,SECU-1001-ONLINE,,2021-04-19,200,FALSE,Continuous Behaviour Observation Program (CBOP),0.0,1.0,234
+10715,LGL-1003-ONLINE (REV 3.3),3.3,2022-04-13,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,235
+10715,OSH-1002-ONLINE (REV 1.3),1.2,2021-02-16,200,FALSE,Lift Truck Operation Theory (1.2),0.0,1.0,236
+10715,LGL-1003-ONLINE,,2021-05-10,200,FALSE,Values and Ethics at CNL,0.0,1.0,237
+10717,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-12,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,238
+10717,OSH-1042-ONLINE (REV 12.4),12.4,2021-02-15,200,FALSE,WHMIS - 2015 (12.4),0.0,1.0,239
+10717,OSH-9050-ONLINE (REV 1),1.0,2021-02-15,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,240
+10717,SECU-2008-ONLINE (REV 1.0),1.0,2021-03-31,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,241
+10717,900-510000-MCP-015,,2021-03-15,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,242
+10491,LGL-1003-ONLINE,,2022-04-04,200,FALSE,Values and Ethics at CNL,0.0,1.0,243
+10587,ERM-1004-ONLINE (REV 1.10),1.1,2022-04-06,200,FALSE,Decommissioning and Demolition Program Awareness (1.10),0.0,1.0,244
+10587,900-510000-MCP-015,,2021-03-15,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,245
+10587,LGL-1003-ONLINE,,2021-07-05,200,FALSE,Values and Ethics at CNL,0.0,1.0,246
+10587,RP-MISC-07-ONLINE,,2022-03-28,200,FALSE,RP Awareness Program for Managers (R5),0.0,1.0,247
+10597,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-13,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,248
+10597,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-07,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,249
+10608,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-05,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,250
+10608,LGL-1003-ONLINE,,2021-04-05,200,FALSE,Values and Ethics at CNL,0.0,1.0,251
+10608,LGL-1003-ONLINE,,2022-01-11,200,FALSE,Values and Ethics at CNL,0.0,1.0,252
+10625,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,253
+10645,QUAL-1019-ONLINE (REV 2),2.0,2022-01-28,200,FALSE,Quality - Software Acquisition (2.0),0.0,1.0,254
+10654,ERM-1002,1.0,2021-08-12,400,FALSE,Land Use Program (LUP) Awareness,1.0,0.0,255
+10654,WL-315,1.0,2021-03-10,400,FALSE,Respectful Work Place,1.0,0.0,256
+10664,EMP-1037-ONLINE (REV 0),0.0,2022-01-12,200,FALSE,Emergency Procedure Refresher (0.0),0.0,1.0,257
+10664,ERM-1004-ONLINE  (REV 1.2),1.2,2022-04-12,200,FALSE,Decommissioning and Demolition Program Awareness (1.2),0.0,1.0,258
+10664,LGL-1003-ONLINE (REV 2.5),2.5,2021-03-22,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,259
+10664,LGL-1003-ONLINE (REV 3.3),3.3,2022-02-20,200,FALSE,Values and Ethics at CNL (3.3),0.0,1.0,260
+10664,OSH-9056-ONLINE (REV 1),1.0,2021-12-13,200,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,1.0,261
+10717,LGL-1003-ONLINE,,2021-04-12,200,FALSE,Values and Ethics at CNL,0.0,1.0,262
+10717,NMMS-1010-ONLINE,,2021-01-20,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,1.0,263
+10717,OSH-5001,,2021-11-10,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,264
+10719,LGL-1003-ONLINE (REV 3.1),3.1,2021-11-23,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,265
+10719,OSH-9045-ONLINE (REV 1),1.0,2021-05-20,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,266
+10719,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-13,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,267
+10719,LGL-1003-ONLINE,,2021-02-17,200,FALSE,Values and Ethics at CNL,0.0,1.0,268
+10730,EMP-1037-ONLINE (REV 0.1),0.1,2022-01-25,200,FALSE,Emergency Procedure Refresher (0.1),0.0,1.0,269
+10730,FIN-1004-ONLINE (REV 1),1.0,2021-04-07,200,FALSE,Financial Delegation Of Authority (1.0),0.0,1.0,270
+10664,HR-1002-ONLINE,,2021-03-23,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,271
+10667,SECU-2008-ONLINE (REV 1.3),1.3,2021-06-01,200,FALSE,Security Awareness Refresher (1.3),0.0,1.0,272
+10669,CNL-1009-ONLINE (REV 1.2),1.2,2021-02-16,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and the Face Covering Policy (1.2),0.0,1.0,273
+10669,FIRE-1001-ONLINE (REV 4.5),4.5,2022-01-27,200,FALSE,Fire Prevention (4.5),0.0,1.0,274
+10669,LGL-1003-ONLINE (REV 3.1),3.1,2021-11-16,200,FALSE,Values and Ethics at CNL (3.1),0.0,1.0,275
+10669,SECU-1006-ONLINE (REV 2.7),2.7,2022-03-15,200,FALSE,Level 2 Security Clearance Awareness (2.7),0.0,1.0,276
+10669,900-510000-MCP-015 (REV 1),1.0,2021-03-29,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,277
+10669,OSH-9101-ONLINE,,2022-01-27,200,FALSE,Mental Health: e-Course Package,0.0,1.0,278
+10673,LGL-1003-ONLINE,,2022-02-22,200,FALSE,Values and Ethics at CNL,0.0,1.0,279
+10730,FIRE-1001-ONLINE (REV 4.4),4.4,2021-04-29,200,FALSE,Fire Prevention (4.4),0.0,1.0,280
+10730,LGL-1003-ONLINE (REV 2.5),2.5,2021-04-26,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,281
+10730,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-07,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,282
+10730,HR-9003,,2021-06-08,200,FALSE,Performance Management: Goal Setting,0.0,1.0,283
+10730,PROC-1019-WL,,2022-02-01,400,FALSE,CNL Contractor Management Overview,0.0,1.0,284
+10730,HR-9003,,2021-06-08,200,FALSE,Performance Management: Goal Setting,0.0,1.0,285
+10730,LGL-1003-ONLINE,,2021-04-26,200,FALSE,Values and Ethics at CNL,0.0,1.0,286
+10735,FIN-1004-ONLINE (REV 1),1.0,2021-03-09,200,FALSE,Financial Delegation Of Authority (1.0),0.0,0.0,287
+10735,OSH-9050-ONLINE (REV 1),1.0,2021-06-08,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,0.0,288
+10735,OSH-9105-ONLINE (REV. 1),1.0,2021-05-04,400,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,0.0,289
+10735,OSH-9105-ONLINE (REV. 1),1.0,2021-05-04,400,FALSE,Cost Course - Ergonomics for Industrial Environments for Canada (1.0),0.0,0.0,290
+10735,HR-9002,1.0,2021-04-14,200,FALSE,Performance Management Training Module 2,1.0,0.0,291
+10735,WL-303,1.0,2021-02-16,200,FALSE,International Leadership Training,1.0,0.0,292
+10735,WL-304,1.0,2021-01-19,200,FALSE,Work Permit Authorizer,1.0,0.0,293
+10735,WL-308,1.0,2021-01-19,200,FALSE,Integrated Work Control,1.0,0.0,294
+10735,WL-313,1.0,2021-03-29,200,FALSE,QA Plan Awareness,1.0,0.0,295
+10735,WL-315,1.0,2021-03-10,200,FALSE,Respectful Work Place,1.0,0.0,296
+10735,HR-9001,1.0,2021-04-07,200,FALSE,Performance Management Training Module 1,1.0,0.0,297
+10735,MS-1004-WL,1.0,2021-01-19,200,FALSE,Integrated Work Control 5 Core Elements,1.0,0.0,298
+10735,RP-MISC-06,1.0,2021-03-15,200,FALSE,Responsible User Radiation Source (R3),1.0,0.0,299
+10735,WL-305,1.0,2021-01-19,200,FALSE,Stop Work,1.0,0.0,300
+10625,WL-FIRE-003,,2021-07-25,200,FALSE,ESO FIRE - PPE&C,0.0,1.0,301
+10625,WL-FIRE-010,,2021-09-04,200,FALSE,ESO FIRE - OVERHAUL OPERATIONS,0.0,1.0,302
+10625,WL-FIRE-016,,2021-09-20,200,FALSE,ESO FIRE - EXTINGUISH IGNITABLE LIQUID FIRES,0.0,1.0,303
+10625,OSH-5001,,2021-10-14,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,304
+10638,OSH-9045-ONLINE (REV 1),1.0,2021-07-06,400,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,305
+10638,WL-311,,2021-01-19,200,FALSE,Pcard & Other Options Available to Procure Goods,0.0,1.0,306
+10638,900-510000-MCP-015,,2021-03-15,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,307
+10638,LGL-1003-ONLINE,,2022-02-09,200,FALSE,Values and Ethics at CNL,0.0,1.0,308
+10641,SECU-1006-ONLINE (REV 2.4),2.4,2021-01-06,200,FALSE,Level 2 Security Clearance Awareness (2.4),0.0,0.0,309
+10654,WL-310,1.0,2021-03-22,400,FALSE,Result Centred Leadership,1.0,0.0,310
+10664,ERM-1004-ONLINE (REV 1.10),1.1,2022-04-05,200,FALSE,Decommissioning and Demolition Program Awareness (1.10),0.0,1.0,311
+10664,TD-9048,,2022-02-09,400,FALSE,Delegation Bootcamp,0.0,1.0,312
+10664,900-510000-MCP-015,,2021-03-22,200,FALSE,Harassment and Violance Free Workplace,0.0,1.0,313
+10664,LGL-1003-ONLINE,,2022-02-20,200,FALSE,Values and Ethics at CNL,0.0,1.0,314
+10667,FIN-1003-ONLINE (REV 1),1.0,2021-01-11,200,FALSE,ExpenseCNL (Concur) System User Training (1.0),0.0,1.0,315
+10667,HR-1002-ONLINE,,2021-03-10,200,FALSE,Performance Management / The Check-In Program,0.0,1.0,316
+10669,OSH-1001-ONLINE (REV 1.2),1.2,2021-02-16,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.2),0.0,1.0,317
+10669,OSH-9050-ONLINE (REV 1),1.0,2021-02-16,200,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,318
+10669,RP-G4-ONLINE (REV 2.7),2.7,2022-03-07,200,FALSE,Group 4 Radiation Protection (2.7),0.0,1.0,319
+10669,SECU-2008-ONLINE (REV 1.6),1.6,2021-11-11,200,FALSE,Security Awareness Refresher (1.6),0.0,1.0,320
+10669,WL-202,,2022-01-25,200,FALSE,Respirator Fit Test,0.0,1.0,321
+10677,QUAL-1020-ONLINE (REV 3),3.0,2021-10-04,200,FALSE,Quality - Software Use (3.0),0.0,1.0,322
+10677,RP-G2-REFRESHER-ONLINE (REV 1.11),1.11,2022-03-21,200,FALSE,Group 2 Refresher (1.11),0.0,1.0,323
+10677,RP-G4-ONLINE (REV 2.7),2.7,2022-03-23,200,FALSE,Group 4 Radiation Protection (2.7),0.0,1.0,324
+10677,ENG-1069-ONLINE,,2021-10-04,200,FALSE,Fume Hood Safety,0.0,1.0,325
+10677,LGL-1003-ONLINE,,2022-02-03,200,FALSE,Values and Ethics at CNL,0.0,1.0,326
+10681,FIRE-1001-ONLINE (REV 4.4),4.4,2021-02-09,200,FALSE,Fire Prevention (4.4),0.0,1.0,327
+10691,LGL-1003-ONLINE (REV 2.5),2.5,2021-10-07,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,328
+10691,OSH-9096-ONLINE (REV 1),1.0,2021-03-15,200,FALSE,Cost Course - Cold Stress (1.0),0.0,1.0,329
+10691,SECU-2008-ONLINE (REV 1.0),1.0,2021-04-07,200,FALSE,Security Awareness Refresher (1.0),0.0,1.0,330
+10697,SECU-1001-ONLINE (REV 1.3),1.3,2021-04-19,200,FALSE,Continuous Behaviour Observation Program (CBOP) (1.3),0.0,1.0,331
+10697,PI-1009,,2021-01-20,200,FALSE,MRM Chair and Attendee training,0.0,1.0,332
+10717,OSH-9050-ONLINE (REV 1),1.0,2021-02-15,400,FALSE,Cost Course - Lead Awareness (1.0),0.0,1.0,333
+10717,OSH-9056-ONLINE (REV 1),1.0,2021-06-15,400,FALSE,Cost Course - Trenching and Excavation Safety (1.0),0.0,1.0,334
+10717,OSH-9063-ONLINE (REV 1.1),1.1,2021-05-19,200,FALSE,Cost Course - Aerial Work Platform Safety for Non-operators (1.1),0.0,1.0,335
+10717,OSH-9031-ONLINE,,2021-02-17,200,FALSE,Asbestos Awareness,0.0,1.0,336
+10719,HR-1003-ONLINE (REV 0),0.0,2021-05-20,200,FALSE,Fitness for Duty (0),0.0,1.0,337
+10719,LGL-1003-ONLINE (REV 2.4),2.4,2021-02-17,200,FALSE,Values and Ethics at CNL (2.4),0.0,1.0,338
+10719,900-510000-MCP-015 (REV 1),1.0,2021-03-15,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,339
+10719,OSH-5001,,2021-10-13,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,340
+10730,HR-1003-ONLINE (REV 0),0.0,2021-06-03,200,FALSE,Fitness for Duty (0),0.0,1.0,341
+10730,OSH-9045-ONLINE (REV 1),1.0,2021-06-03,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,342
+10730,PROC-1019-WL,,2022-02-15,200,FALSE,CNL Contractor Management Overview,0.0,1.0,343
+10730,PROC-1019-WL,,2022-02-01,400,FALSE,CNL Contractor Management Overview,0.0,1.0,344
+10730,OSH-5001,,2021-10-07,200,FALSE,Hazardous Energy Control MCP (Rev 1) – Briefing Package on Updates,0.0,1.0,345
+10735,NMMS-1010-ONLINE (REV 5.1),5.1,2021-05-27,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1 (5.1),0.0,0.0,346
+10735,SECU-2008-ONLINE (REV 1.0),1.0,2021-03-31,200,FALSE,Security Awareness Refresher (1.0),0.0,0.0,347
+10735,HR-9001,1.0,2021-04-07,200,FALSE,Performance Management Training Module 1,1.0,0.0,348
+10735,RP-MISC-06,1.0,2021-03-15,200,FALSE,Virtual Offering of Responsible User Radiation Source (R3),1.0,0.0,349
+10735,WL-306,1.0,2021-01-19,200,FALSE,Pre Job Brief,1.0,0.0,350
+10677,FIRE-1001-ONLINE (REV 4.4),4.4,2021-03-08,200,FALSE,Fire Prevention (4.4),0.0,1.0,351
+10677,LGL-1003-ONLINE (REV 2.5),2.5,2021-03-08,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,352
+10677,OSH-9045-ONLINE (REV 1),1.0,2021-10-04,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,353
+10677,SECU-2008-ONLINE (REV 1.2),1.2,2021-04-27,200,FALSE,Security Awareness Refresher (1.2),0.0,1.0,354
+10677,RP-G4-ONLINE,,2022-03-23,200,FALSE,Group 4 Radiation Protection Training,0.0,1.0,355
+10681,RP-G4-ONLINE (REV 2.5),2.5,2021-02-09,200,FALSE,Group 4 Radiation Protection (2.5),0.0,1.0,356
+10691,ERM-1001-ONLINE (REV 1.3),1.3,2021-05-19,200,FALSE,Cleanup Function Overview (1.3),0.0,1.0,357
+10691,LGL-1003-ONLINE,,2021-10-07,200,FALSE,Values and Ethics at CNL,0.0,1.0,358
+10697,LGL-1003-ONLINE,,2022-02-21,200,FALSE,Values and Ethics at CNL,0.0,1.0,359
+10715,LGL-1003-ONLINE (REV 2.5),2.5,2021-05-10,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,360
+10715,OSH-1001-ONLINE (REV 1.2),1.2,2021-02-09,200,FALSE,Crane - Safe Indoor Hoist - Theory (1.2),0.0,1.0,361
+10715,OSH-1003-ONLINE (REV 1.3),1.2,2021-05-12,200,FALSE,Aerial Work Platform Theory (1.2),0.0,1.0,362
+10715,OSH-1005-ONLINE (REV 1.6),1.6,2021-11-20,200,FALSE,Working At Heights Theory (1.6),0.0,1.0,363
+10715,900-510000-MCP-015 (REV 1),1.0,2021-03-24,200,FALSE,Harassment and Violance Free Workplace (1.0),0.0,1.0,364
+10735,WL-306,1.0,2021-01-18,200,FALSE,Pre Job Brief,1.0,0.0,365
+10735,WL-308,1.0,2021-01-19,200,FALSE,Integrated Work Control,1.0,0.0,366
+10735,WL-308,1.0,2021-01-19,200,FALSE,Integrated Work Control,1.0,0.0,367
+10735,WL-316,1.0,2021-01-28,200,FALSE,Diversity Training,1.0,0.0,368
+10735,900-510000-MCP-015,,2021-03-29,200,FALSE,Harassment and Violance Free Workplace,0.0,0.0,369
+10735,FIN-1004-ONLINE,1.0,2021-03-09,200,FALSE,Financial Delegation Of Authority,1.0,0.0,370
+10735,HR-1002-ONLINE,,2021-03-01,200,FALSE,Performance Management / The Check-In Program,0.0,0.0,371
+10735,NMMS-1010-ONLINE,,2021-05-27,200,FALSE,Nuclear Criticality Safety for Emerg Responders R1,0.0,0.0,372
+10735,OSH-1003-ONLINE,1.6,2021-05-27,200,FALSE,Aerial Work Platform Theory,1.0,0.0,373
+10735,OSH-9056-ONLINE,1.0,2021-06-10,200,FALSE,Trenching and Excavation Safety,1.0,0.0,374
+10770,LGL-1003-ONLINE (REV 2.5),2.5,2021-05-03,200,FALSE,Values and Ethics at CNL (2.5),0.0,1.0,375
+10770,OSH-9045-ONLINE (REV 1),1.0,2022-02-25,200,FALSE,Cost Course - Hand Safety (1.0),0.0,1.0,376
+10770,LGL-1003-ONLINE,,2021-05-03,200,FALSE,Values and Ethics at CNL,0.0,1.0,377
+10770,IT-1024-ONLINE,,2021-06-08,200,FALSE,SharePoint Online - General User Training,0.0,1.0,378
+10775,LGL-1003-ONLINE (REV 3.2),3.2,2022-02-10,200,FALSE,Values and Ethics at CNL (3.2),0.0,1.0,379
+10735,WL-307,1.0,2021-01-19,200,FALSE,Job Safety Analysis,1.0,0.0,380
+10735,WL-313,1.0,2021-03-29,200,FALSE,QA Plan Awareness,1.0,0.0,381
+10735,WL-315,1.0,2021-03-10,200,FALSE,Respectful Work Place,1.0,0.0,382
