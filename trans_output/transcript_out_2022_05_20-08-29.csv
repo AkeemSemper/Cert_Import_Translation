@@ -1,0 +1,556 @@
+LEARNER,COURSE,COURSE_VERSION,COMPLETION_DATE,COMPLETION_STATUS,CREATE_ADHOC_COURSE,COURSE_TITLE,ID
+58821,HR-1005,1.0,2021-11-18,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,0
+59699,IT-1024,1.0,2021-01-18,200,FALSE,SharePoint Online - General User Training,1
+92374,PHAI-1056-ONLINE,1.3,2021-09-13,200,FALSE,PHAI (Port Hope Area Initiative) Awareness,2
+57577,EMP-1036,1.0,2022-02-04,200,FALSE,Emergency Procedure Refresher,3
+55103,PMO-9013,1.0,2021-03-15,400,FALSE,Cost Course - $495/person VIRTUAL Project Schedule Management,4
+60987,TD-1034,1.0,2021-11-16,400,FALSE,Responsibilities In Supervising Employees (RISE) Day 3 of 3,5
+92093,OSH-3005,1.0,2021-06-21,200,FALSE,Working at Heights Practical,6
+55804,OSH-3002-C,1.0,2021-05-14,200,FALSE,Lift Truck Practical - Counter Balance,7
+90929,SECU-2029,1.4,2021-07-07,200,FALSE,Security Awareness Refresher (1.4),8
+54447,ERM-1001-ONLINE,1.4,2021-05-06,200,FALSE,Cleanup Function Overview,9
+92117,RP-G3-FCO,1.0,2021-05-18,200,FALSE,Group 3 Practical Field Checkout,10
+92253,OSH-3005,1.0,2021-10-12,400,FALSE,Working at Heights Practical,11
+58486,OSH-1003-ONLINE,1.6,2021-04-12,200,FALSE,Aerial Work Platform Theory,12
+55543,EMP-1036,0.2,2022-03-16,200,FALSE,Emergency Procedure Refresher (0.2),13
+53036,FIRE-3001,1.0,2021-04-26,400,FALSE,Fire Extinguisher - Practical - NEW,14
+21024,WMA-1025,1.0,2022-01-24,200,FALSE,Waste Management Area Document Refresher,15
+59855,ERM-1002,1.0,2021-07-06,200,FALSE,Land Use Program (LUP) Awareness,16
+61382,S&T-1008,1.0,2021-03-18,200,FALSE,"Tritium Facility Conduct of Operations, Part 2",17
+60190,WL-306,1.0,2021-02-23,200,FALSE,Pre Job Brief,18
+60895,WL-315,1.0,2021-03-15,400,FALSE,Respectful Work Place,19
+58525,WMA-1010,1.0,2021-01-13,200,FALSE,Emergency Procedures for the Waste Management Area,20
+90512,OSH-1047,1.0,2021-05-26,400,FALSE,Where do I Stand? : Vehicle Spotter Training,21
+51816,RP-G3,1.0,2021-10-05,200,FALSE,Group 3 - Radiation Protection Training,22
+92640,WL-306,1.0,2022-02-07,200,FALSE,Pre Job Brief,23
+60991,FIRE-1001-ONLINE,4.7,2022-02-22,200,FALSE,Fire Prevention,24
+91010,MS-1002,1.0,2021-04-07,200,FALSE,Integrated Work Control - Enhanced,25
+58787,TD-1032,1.0,2021-06-03,200,FALSE,Responsibilities In Supervising Employees (RISE) Day 1 of 3,26
+92244,RP-G3,1.0,2021-08-12,200,FALSE,Group 3 - Radiation Protection Training,27
+91938,EMP-1021-CRL-EXAM,1.4,2022-01-27,400,FALSE,Officer in Charge and Emergency Steward,28
+92273,RP-G1-009,1.0,2021-09-01,200,FALSE,Group 1 - Biological Effects,29
+53305,FIN-1004-ONLINE,1.0,2022-02-22,200,FALSE,Financial Delegation Of Authority,30
+54683,PHAI-1067,1.0,2022-02-04,200,FALSE,RISE one day for Port Hope Leads (not Field Essentials),31
+92370,SECU-2029,1.4,2021-09-07,200,FALSE,Security Awareness Refresher (1.4),32
+70072,FIN-1003-ONLINE,1.0,2021-01-15,200,FALSE,ExpenseCNL (Concur) System User Training,33
+90035,RP-G3-FCO,1.0,2022-03-12,400,FALSE,Group 3 Practical Field Checkout,34
+20352,OSH-9103,1.0,2022-03-08,200,FALSE,Mental Health First Aid (Virtual),35
+90183,SECU-2044,1.0,2021-10-30,200,FALSE,Resopnse to Adversary Breaches Refresher,36
+60009,WL-306,1.0,2021-03-30,400,FALSE,Pre Job Brief,37
+56972,RP-G3,1.0,2022-02-23,200,FALSE,Group 3 - Radiation Protection Training,38
+58658,FIRE-3001,1.0,2021-11-16,200,FALSE,Private Offering of Fire Extinguisher - Practical,39
+91841,PHAI-1027,1.0,2021-06-17,200,FALSE,Responsibilities In Supervising Employees (RISE) for PHAI,40
+55281,SECU-2029,1.0,2021-08-09,200,FALSE,Security Awareness Refresher,41
+54780,HR-1005,1.0,2021-11-15,200,FALSE,Mandatory Harassment and Violence Prevention Training,42
+56644,ENG-1072,1.0,2021-12-16,200,FALSE,Engineering Change Control Update – Ensure Implementation of Programmable Electronic Systems (PES) Categorization,43
+54542,HR-1004,1.0,2021-06-29,200,FALSE,VIRTUAL Managing Alcohol and Drug Use,44
+90475,HR-1005,1.0,2021-11-18,200,FALSE,Mandatory Harassment and Violence Prevention Training,45
+60735,RP-MISC-06,1.0,2021-05-06,200,FALSE,Responsible User Radiation Source (R3),46
+90239,OSH-9016,1.0,2021-08-10,200,FALSE,"Cost Course Asbestos Abatement Type 3, Supervisor Training",47
+61548,PMO-9015,1.0,2021-08-10,200,FALSE,Cost Course - $495/person VIRTUAL Project Risk Management,48
+91575,WL-168,1.0,2021-06-02,200,FALSE,Waste Management & Packaging Fundamentals Combined,49
+91326,SECU-3031,1.0,2021-10-26,200,FALSE,Secondary Firearm Qualification (Sig Sauer P226),50
+27240,HR-9002,1.0,2021-04-08,200,FALSE,Performance Management Training Module 2,51
+20986,FIRE-3049-CRL,1.0,2021-04-27,200,FALSE,Fire Hose: Practical: Pre-connected Hose Loads (Skills 9 to 11),52
+92471,OSH-9045-ONLINE,1.0,2021-11-02,200,FALSE,Hand Safety,53
+91842,FIRE-1001-ONLINE,4.7,2021-08-18,200,FALSE,Fire Prevention,54
+57674,OSH-9071-ONLINE,1.0,2021-01-08,200,FALSE,Electrical Safety Introduction for Canada,55
+58523,MS-1002,1.0,2021-05-01,200,FALSE,Waiver for Integrated Work Control - Enhanced,56
+91265,OSH-9050-ONLINE,1.0,2021-02-03,400,FALSE,Lead Awareness,57
+92666,RP-G3,1.0,2022-03-22,200,FALSE,Group 3 - Radiation Protection Training,58
+91224,PROC-1019,1.0,2021-04-22,200,FALSE,CNL Contractor Management Overview,59
+91284,HR-1005,1.0,2021-11-26,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,60
+92064,CNL-1010,1.0,2021-03-05,200,FALSE,CNL COVID-19 Pandemic Response,61
+59530,PMO-9016,1.0,2021-08-31,200,FALSE,Cost Course - $495/person VIRTUAL Project Resource Management,62
+53760,SECU-2029,1.0,2021-05-10,200,FALSE,Security Awareness Refresher,63
+56166,HR-1005,1.0,2021-11-15,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,64
+92094,SECU-1024,1.0,2021-03-30,200,FALSE,Search Methods,65
+90553,RP-1012-CRL,1.0,2021-01-13,200,FALSE,Ludlum Model 2360 with 43-93 Detector Alpha/Beta Contamination Instrument,66
+90371,OSH-9045-ONLINE,1.0,2021-07-16,200,FALSE,Hand Safety,67
+60321,PMO-9013,1.0,2021-05-25,200,FALSE,Cost Course - $495/person VIRTUAL Project Schedule Management,68
+92259,SECU-1008-ONLINE,4.0,2021-06-28,200,FALSE,*NEW HIRE* Security Awareness,69
+90474,SECU-2029,1.0,2021-06-03,200,FALSE,Security Awareness Refresher,70
+92279,EMP-1036,1.0,2022-03-01,200,FALSE,Emergency Procedure Refresher,71
+53514,EMP-1004,1.0,2021-12-06,200,FALSE,EOC - CRL Operating Environment,72
+91806,RD-1003,1.0,2021-03-03,200,FALSE,Overview of Quality Assurance for S&T,73
+54682,HR-1005,1.0,2021-11-23,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,74
+92044,OSH-9050-ONLINE,1.0,2021-06-30,200,FALSE,Lead Awareness,75
+92535,OPEX-1005-ONLINE,1.4,2022-01-11,200,FALSE,Introducing the ImpAct Process at CNL,76
+60229,EMP-1036,1.0,2022-01-13,200,FALSE,Emergency Procedure Refresher,77
+60552,HR-1005,1.0,2021-11-24,200,FALSE,Mandatory Harassment and Violence Prevention Training,78
+90633,TDG-9003,1.0,2021-03-04,200,FALSE,Cost Course $605/Person(MAX) - Transportation of Dangerous Goods by Ground All Classes - Initial,79
+91695,OSH-3005,1.0,2022-02-22,200,FALSE,Working at Heights Practical,80
+56718,OPEX-1005-ONLINE,1.4,2022-03-21,200,FALSE,Introducing the ImpAct Process at CNL,81
+92296,CNL-1009-ONLINE,1.3,2021-07-19,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,82
+20832,PMO-9016,1.0,2021-10-18,400,FALSE,Cost Course - $495/person VIRTUAL Project Resource Management,83
+57382,IT-1020,1.0,2021-07-21,400,FALSE,"EDMS: How to Find Information – Identify, Filter and Query Functions",84
+61452,OSH-3020,1.0,2022-01-17,400,FALSE,**First Aid CPR C with AED - Blended In Class,85
+92509,OSH-1034-ONLINE,1.5,2021-12-10,200,FALSE,Hazard Prevention Program,86
+55743,OSH-9070-ONLINE,1.0,2021-03-01,200,FALSE,Arc Flash Safety for Canada,87
+92582,TD-1018-ONLINE,1.9,2022-01-10,200,FALSE,CNL General Safety Orientation,88
+57421,OSH-1004-VIRTUAL,1.0,2022-01-26,200,FALSE,WS BLOCK - Cost Course - $222/Person - Lock Out / Tag Out (Virtual),89
+91179,OSH-9045-ONLINE,1.0,2021-07-31,200,FALSE,Hand Safety,90
+57095,HR-1005,1.0,2021-11-26,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,91
+56752,OSH-1004,1.0,2021-01-07,400,FALSE,Lock Out / Tag Out,92
+56392,OPS-9019-ONLINE,1.0,2021-05-03,400,FALSE,Motor Starters,93
+92306,EMP-3024,1.0,2022-03-17,200,FALSE,Integrated Emergency Response Table Top Exercise,94
+92465,RP-G3,1.0,2022-02-19,200,FALSE,Group 3 - Radiation Protection Training,95
+59092,OSH-1033-ONLINE,1.3,2021-03-03,200,FALSE,Ladder Safety,96
+90889,WL-307,1.0,2021-02-02,200,FALSE,Job Safety Analysis,97
+91326,SECU-1046,1.0,2021-12-28,200,FALSE,Containment,98
+91449,HR-1005,1.0,2021-12-17,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,99
+56329,FD-1018,1.0,2021-03-17,200,FALSE,Mitigating Perchlorate Hazards During Decommissioning,100
+91714,WL-120,1.0,2021-09-14,200,FALSE,Whiteshell Site Orientation,101
+57995,ERM-1002,1.0,2021-06-22,200,FALSE,Land Use Program (LUP) Awareness,102
+52886,RP-1011-CRL-ONLINE,1.2,2021-11-10,200,FALSE,Transfer and Storage of RAM- Tag Update Training,103
+59505,FIRE-3001,1.0,2022-03-28,400,FALSE,Fire Extinguisher - Practical,104
+56751,FIRE-1001-ONLINE,4.7,2021-02-22,200,FALSE,Fire Prevention,105
+59691,HR-1005,1.0,2021-11-10,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,106
+50880,WL-304,1.0,2021-04-13,200,FALSE,Work Permit Authorization Process,107
+91864,NMMS-1011-ONLINE,3.6,2021-01-11,200,FALSE,Nuclear Criticality Safety Program Awareness,108
+55713,SECU-3041,1.0,2022-04-19,200,FALSE,Primary Firearms Qualification (Colt C8 Carbine),109
+60894,WL-305,1.0,2021-03-31,200,FALSE,Stop Work,110
+57756,FIRE-1001-ONLINE,4.7,2021-07-13,200,FALSE,Fire Prevention,111
+52427,OSH-1002-ONLINE,1.5,2021-01-18,200,FALSE,Lift Truck Operation Theory,112
+59829,PMO-9018,1.0,2021-12-09,200,FALSE,Cost Course - $495/person VIRTUAL Project Quality Management,113
+92354,RP-G3-FCO,1.0,2021-10-19,200,FALSE,Group 3 Practical Field Checkout,114
+56014,RP-G2,1.0,2021-10-20,200,FALSE,Group 2 Radiation Protection,115
+52695,TD-1011,1.0,2021-01-14,400,FALSE,Conducting on the Job Training,116
+55653,WL-308,1.0,2021-02-02,200,FALSE,Integrated Work Control,117
+59381,TD-1032,1.0,2022-03-08,200,FALSE,VIRTUAL Responsibilities In Supervising Employees (RISE) Day 1 of 3,118
+91652,PROC-1020,1.0,2021-10-04,400,FALSE,CNL Contractor Representative,119
+61370,OSH-9076-ONLINE,1.0,2021-09-07,200,FALSE,Electric Shock,120
+59634,MS-1002,1.0,2022-01-25,200,FALSE,Integrated Work Control - Enhanced,121
+92306,EMP-1030,1.0,2021-12-09,200,FALSE,Role of Fire,122
+50584,NMMS-1011-ONLINE,3.6,2021-10-01,200,FALSE,Nuclear Criticality Safety Program Awareness,123
+90179,SECU-1040,1.0,2022-01-03,200,FALSE,Less-Lethal Extended Range Options,124
+92263,HU-1038,1.0,2021-07-29,200,FALSE,(NEO) VIRTUAL Human Performance Awareness - Fundamentals and Nuclear Safety Culture,125
+90001,OSH-9076-ONLINE,1.0,2021-11-10,200,FALSE,Electric Shock,126
+91283,NMMS-1011-ONLINE,3.6,2021-07-05,200,FALSE,Nuclear Criticality Safety Program Awareness,127
+58566,PMO-9011,1.0,2021-03-30,200,FALSE,Cost Course - $495/person VIRTUAL Project Management Framework,128
+56932,OSH-9056-ONLINE,1.0,2021-08-03,200,FALSE,Trenching and Excavation Safety,129
+52768,TD-1035,1.0,2021-01-14,400,FALSE,RISE Field Essentials,130
+54446,OSH-9071-ONLINE,1.0,2021-01-26,200,FALSE,Electrical Safety Introduction for Canada,131
+59637,PMO-9015,1.0,2021-06-22,400,FALSE,Cost Course - $495/person VIRTUAL Project Risk Management,132
+54270,EMP-1036,1.0,2022-01-17,200,FALSE,Emergency Procedure Refresher,133
+57202,WL-315,1.0,2021-04-26,200,FALSE,Respectful Work Place,134
+90809,PROC-1019,1.0,2022-01-20,200,FALSE,VIRTUAL CNL Contractor Management Overview,135
+91007,WL-165,1.0,2021-04-29,200,FALSE,Waste Management Awareness for Project Delivery,136
+90909,HR-1005,1.0,2021-11-09,200,FALSE,Mandatory Harassment and Violence Prevention Training,137
+56797,OSH-9070-ONLINE,1.0,2021-03-23,200,FALSE,Arc Flash Safety for Canada,138
+58266,PMO-9012,1.0,2021-05-05,200,FALSE,Cost Course - $495/person VIRTUAL Project Scope Management,139
+58133,FIRE-3001,1.0,2021-05-13,200,FALSE,Fire Extinguisher,140
+90450,OSH-3003-B,1.0,2021-05-20,200,FALSE,Aerial Work Platform Practical - Articulating Boom 60 ft (or less),141
+92284,RP-G1-035,1.0,2021-11-22,200,FALSE,Group 1 - Incident Response Principles,142
+57737,FIRE-1001-ONLINE,4.7,2021-07-05,200,FALSE,Fire Prevention,143
+92620,SECU-3007,1.0,2022-03-07,200,FALSE,Metal Detection,144
+59193,WL-306,1.0,2021-02-23,200,FALSE,Pre Job Brief,145
+55336,FD-3019,1.0,2022-01-11,200,FALSE,FD&ER Integrated Work Control,146
+91666,MS-3001,1.0,2021-02-11,200,FALSE,NRU - Integrated Work Control Practical Application,147
+61806,SECU-2029,1.0,2021-04-22,200,FALSE,Security Awareness Refresher,148
+92488,OSH-1005-ONLINE,1.7,2022-03-07,200,FALSE,Working At Heights Theory,149
+58328,SECU-2029,1.0,2021-04-06,200,FALSE,Security Awareness Refresher,150
+91194,HR-1005,1.0,2021-11-29,400,FALSE,Mandatory Harassment and Violence Prevention Training,151
+53078,FIRE-3001,1.0,2021-03-03,200,FALSE,Fire Extinguisher - Practical,152
+52890,ERM-1001-ONLINE,1.4,2021-08-05,200,FALSE,Cleanup Function Overview,153
+55390,FIRE-3001,1.0,2022-01-07,400,FALSE,WS BLOCK - Fire Extinguisher - Practical,154
+60314,OSH-9076-ONLINE,1.0,2021-02-25,200,FALSE,Electric Shock,155
+21042,EMP-1036,1.0,2022-01-15,200,FALSE,Emergency Procedure Refresher,156
+58587,PROC-1020,1.0,2021-06-10,200,FALSE,CNL Contractor Representitive,157
+58182,HR-1003-ONLINE,1.0,2021-07-06,200,FALSE,Fitness for Duty,158
+27595,FIRE-1001-ONLINE,4.7,2021-04-21,200,FALSE,Fire Prevention,159
+92620,SECU-3006,1.0,2022-03-07,200,FALSE,ION Scan Explosive Detection System,160
+56947,OSH-1007,1.0,2021-01-12,200,FALSE,Virtual Offering of Asbestos Module 6E,161
+55913,RP-G3-FCO,1.0,2021-01-19,200,FALSE,Group 3 Practical Field Checkout,162
+61628,MS-1002,1.0,2021-04-07,200,FALSE,Integrated Work Control - Enhanced,163
+57353,WMA-1025,1.0,2022-01-24,200,FALSE,Waste Management Area Document Refresher,164
+56955,SECU-2029,1.4,2021-08-04,200,FALSE,Security Awareness Refresher (1.4),165
+50287,OSH-3002-D,1.0,2021-09-08,200,FALSE,Lift Truck Practical - Non-Electric Pallet Jack and Material Lift,166
+57581,PMO-9017,1.0,2021-10-21,400,FALSE,Cost Course - $495/person VIRTUAL Project Procurement Management,167
+90456,RP-MISC-39,1.0,2022-04-13,200,FALSE,Air Supplied Suit Operation,168
+60927,HR-1005,1.0,2021-11-23,200,FALSE,Mandatory Harassment and Violence Prevention Training,169
+60786,TDG-1007-H,1.0,2021-07-26,200,FALSE,TDG Class 7 Radioactive Material - Handler (R3),170
+52768,ENG-1072,1.0,2021-12-14,200,FALSE,Engineering Change Control Update –Ensure Implementation of Programmable Electronic Systems (PES) Categorization,171
+92637,HU-1038,1.0,2022-02-08,200,FALSE,(NEO) VIRTUAL Human Performance Awareness - Fundamentals and Nuclear Safety Culture,172
+59505,OSH-3005,1.0,2021-03-24,200,FALSE,Working at Heights Practical,173
+59595,SECU-1056,1.0,2021-07-07,200,FALSE,Canadian Nuclear Security Fitness Test (NSO),174
+59381,IT-9043,1.0,2021-11-15,200,FALSE,Power BI Training for Report Consumers,175
+58526,TD-1033,1.0,2021-11-09,200,FALSE,VIRTUAL Responsibilities In Supervising Employees (RISE) Day 2 of 3,176
+58021,OSH-1007,1.0,2021-09-15,200,FALSE,VIRTUAL Asbestos Module 6E,177
+60478,FIN-1003-ONLINE,1.0,2021-03-01,200,FALSE,ExpenseCNL (Concur) System User Training,178
+60770,MS-1002,1.0,2021-04-07,200,FALSE,Waiver for Integrated Work Control - Enhanced,179
+27607,WMA-1023,1.0,2022-01-24,200,FALSE,"WMA Criticality Safety for Group B, C and D Employees",180
+92342,OSH-1020,1.0,2021-10-15,200,FALSE,First Aid Standard & Defibrillation,181
+56071,EMP-1036,1.0,2022-02-18,200,FALSE,Emergency Procedure Refresher,182
+59740,WL-305,1.0,2021-03-31,400,FALSE,Stop Work,183
+92158,OSH-9045-ONLINE,1.0,2021-07-20,200,FALSE,Hand Safety,184
+92212,OSH-9104-EXAM,1.0,2022-01-24,200,FALSE,Trenching Safety Exam,185
+53976,FIRE-3146-CRL,1.0,2021-10-04,200,FALSE,Tactical Ventilation: Practical: Types of Tactical Ventilations,186
+60321,OSH-9045-ONLINE,1.0,2021-09-14,200,FALSE,Hand Safety,187
+92501,OSH-9045-ONLINE,1.0,2021-11-22,200,FALSE,Hand Safety,188
+57776,S&T-1011,1.0,2021-12-07,200,FALSE,B405 BEP Familiarization,189
+56610,WL-305,1.0,2021-03-31,200,FALSE,Stop Work,190
+52875,OPS-9017-ONLINE,1.0,2021-09-21,400,FALSE,Hydraulic System Valves and Components,191
+55424,TD-1032,1.0,2021-05-03,200,FALSE,VIRTUAL Responsibilities In Supervising Employees (RISE) Day 1 of 3,192
+90687,FIRE-1001-ONLINE,4.7,2021-04-15,200,FALSE,Fire Prevention,193
+60864,OSH-9070-ONLINE,1.0,2021-06-07,200,FALSE,Arc Flash Safety for Canada,194
+90213,OSH-9045-ONLINE,1.0,2021-07-23,200,FALSE,Hand Safety,195
+59758,MS-1002,1.0,2021-05-01,200,FALSE,Integrated Work Control - Enhanced,196
+91908,HR-1005,1.0,2021-11-09,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,197
+91221,RP-1012-CRL,1.0,2021-01-13,200,FALSE,Ludlum Model 2360 with 43-93 Detector Alpha/Beta Contamination Instrument,198
+53525,RP-G3-FCO,1.0,2022-01-26,200,FALSE,WS BLOCK - Group 3 Practical Field Checkout,199
+20581,TDG-1003-C,1.0,2021-03-02,400,FALSE,TDG Class 7 Radioactive Material - Carrier (R3),200
+92403,EMP-1008,1.0,2021-12-08,200,FALSE,EOC - Incident Action Plan,201
+59392,LGL-1005,1.0,2021-04-29,200,FALSE,Ethical Conduct at CNL,202
+60317,TD-2000-WL,1.0,2021-10-07,200,FALSE,GET General Employee Training,203
+10730,OSH-9045-ONLINE,1.0,2021-06-03,200,FALSE,Hand Safety,204
+91293,OSH-1001-ONLINE,1.4,2022-03-18,200,FALSE,Crane - Safe Indoor Hoist - Theory,205
+60753,IT-1018,1.0,2021-07-14,400,FALSE,EDMS: How to Create a Map,206
+91723,HR-1005,1.0,2021-11-15,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,207
+59892,EMP-1036,0.2,2022-03-30,200,FALSE,Emergency Procedure Refresher (0.2),208
+54477,EMP-1030,1.0,2021-12-09,200,FALSE,Role of Fire,209
+92099,SECU-1043,1.0,2022-02-02,200,FALSE,Area  Control/Adversary Denial,210
+92079,HR-1005,1.0,2021-11-04,200,FALSE,Mandatory Harassment and Violence Prevention Training,211
+54886,ENG-1070,1.0,2021-08-17,200,FALSE,"Identifying Structures, Systems and Components Important to Safety 900-508770-FID-006",212
+60694,HR-1005,1.0,2021-11-24,400,FALSE,Mandatory Harassment and Violence Prevention Training,213
+90435,EMP-1010,1.0,2021-05-04,200,FALSE,EOC - Handover Procedure,214
+54334,OSH-9057-ONLINE,1.0,2021-08-30,200,FALSE,Trenching and Excavation Soil Properties,215
+52886,OSH-9056-ONLINE,1.0,2021-11-10,200,FALSE,Trenching and Excavation Safety,216
+91917,OSH-3005,1.0,2021-02-03,400,FALSE,Working at Heights Practical,217
+91524,EMP-1036,1.0,2022-01-28,200,FALSE,Emergency Procedure Refresher,218
+55661,WL-304,1.0,2021-02-18,200,FALSE,Work Permit Authorization Process,219
+92448,OSH-9118,1.0,2022-04-06,400,FALSE,Cost Course $332/person - Confined Space Entry,220
+61632,OSH-9057-ONLINE,1.0,2021-07-09,200,FALSE,Trenching and Excavation Soil Properties,221
+92457,NMMS-1011-ONLINE,3.6,2021-10-26,400,FALSE,Nuclear Criticality Safety Program Awareness,222
+91652,FIRE-3001,1.0,2021-03-08,200,FALSE,Fire Extinguisher - Practical,223
+92140,EMP-1036,1.0,2022-02-21,200,FALSE,Emergency Procedure Refresher,224
+10715,WL-308,1.0,2021-02-24,200,FALSE,Integrated Work Control,225
+57994,WL-306,1.0,2021-03-30,200,FALSE,Pre Job Brief,226
+56239,OSH-1033-ONLINE,1.3,2022-01-10,200,FALSE,Ladder Safety,227
+53492,WMA-1025,1.0,2022-01-24,200,FALSE,WS BLOCK - Waste Management Area Document Refresher,228
+50087,MS-1002,1.0,2022-01-25,200,FALSE,Integrated Work Control - Enhanced,229
+59560,OSH-1004-VIRTUAL,1.0,2021-02-01,200,FALSE,Cost Course $222/Person - Lock Out / Tag Out (Virtual),230
+57526,FD-1018,1.0,2022-01-12,200,FALSE,Mitigating Perchlorate Hazards During Decommissioning,231
+58821,RP-G2-FCO,1.0,2021-09-09,200,FALSE,Group 2 Practical Field Checkout – Generic Facility/Laboratory,232
+90067,OSH-9078-ONLINE,1.0,2022-01-31,200,FALSE,Storage and Handling of Corrosives,233
+91698,RP-G1-002,1.0,2022-02-25,200,FALSE,Group 1 - Documentation,234
+52875,OSH-1004-VIRTUAL,1.0,2022-01-20,400,FALSE,WS BLOCK - Cost Course - $222/Person - Lock Out / Tag Out (Virtual),235
+61707,OSH-1047,1.0,2021-01-28,200,FALSE,Where do I Stand? : Vehicle Spotter Training,236
+90201,WL-165,1.0,2021-04-29,200,FALSE,Waste Management Awareness for Project Delivery,237
+61938,SECU-2029,1.0,2021-11-11,200,FALSE,Defensive Tactics Refresher,238
+53186,SECU-2029,1.0,2021-04-22,200,FALSE,Security Awareness Refresher,239
+90506,WL-165,1.0,2021-04-29,200,FALSE,Waste Management Awareness for Project Delivery,240
+57382,TD-9043,1.0,2021-05-12,200,FALSE,Cost Course - Coaching Skills for Effective Leadership,241
+55507,OSH-9104-ONLINE,1.0,2021-08-03,200,FALSE,Cost Course - Trenching Safety Theory,242
+92673,RP-G3,1.0,2022-03-22,200,FALSE,Group 3 - Radiation Protection Training,243
+50228,OSH-3020,1.0,2022-02-08,200,FALSE,First Aid CPR C with AED - Blended In Class,244
+90939,HR-1005,1.0,2021-11-05,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,245
+91283,RP-G1-029,1.0,2021-11-03,200,FALSE,Group 1 - Airborne Contamination Hazards Pt. A,246
+60297,OSH-1007,1.0,2021-05-05,400,FALSE,Asbestos Module 6E,247
+61301,SECU-2029,1.0,2021-06-16,200,FALSE,Security Awareness Refresher,248
+92338,RP-G3,1.0,2021-08-26,200,FALSE,Group 3 - Radiation Protection Training,249
+92095,SECU-1029,1.0,2021-12-10,200,FALSE,Defensive Tactics,250
+53081,S&T-1011,1.0,2021-11-23,200,FALSE,B405 BEP Familiarization,251
+59485,OSH-3001-F,1.0,2021-01-08,200,FALSE,Crane - Safe Indoor Hoist - Practical - Bridge Crane,252
+92116,RP-MISC-39,1.0,2021-05-10,200,FALSE,Air Supplied Suit Operation,253
+91857,OSH-1004-VIRTUAL,1.0,2021-04-26,200,FALSE,Lock Out / Tag Out (Virtual),254
+92513,RP-G3,1.0,2022-01-11,200,FALSE,Group 3 - Radiation Protection Training,255
+91919,HR-1005,1.0,2021-12-20,200,FALSE,Mandatory Harassment and Violence Prevention Training,256
+59500,TDG-1007-H-EXAM,1.6,2021-01-13,200,FALSE,TDG Class 7 Radioactive Material - Handler Exam,257
+92361,CNL-1009-ONLINE,1.3,2021-10-14,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,258
+55091,SECU-3031,1.0,2022-04-12,200,FALSE,Secondary Firearm Qualification (Sig Sauer P226),259
+92649,TD-1018-ONLINE,1.9,2022-02-07,400,FALSE,CNL General Safety Orientation,260
+53195,OSH-9045-ONLINE,1.0,2021-11-04,200,FALSE,Hand Safety,261
+57628,RP-5008-CRL,1.0,2021-06-16,200,FALSE,R3 Radiation Source Responsible User Update,262
+91625,ERM-1002,1.0,2021-07-29,200,FALSE,Land Use Program (LUP) Awareness,263
+91026,FIRE-3001,1.0,2021-10-28,200,FALSE,Fire Extinguisher,264
+91326,SECU-OJTN-005,1.0,2021-08-20,200,FALSE,C8 Carbine Characteristics & Theory of Operation,265
+55123,HR-1005,1.0,2021-12-01,200,FALSE,Mandatory Harassment and Violence Prevention Training,266
+58740,HR-1005,1.0,2021-11-08,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,267
+90886,TD-9040,1.0,2021-04-14,200,FALSE,Writing CNL Scopes of Work for External Resources,268
+90389,RP-5008-CRL,1.0,2021-02-10,200,FALSE,R3 Radiation Source Responsible User Update,269
+90383,NMMS-1001,1.0,2021-01-19,200,FALSE,Fissionable Materials Accounting,270
+90633,TD-2000-WL,1.0,2022-02-25,400,FALSE,GET General Employee Training,271
+92306,FIRE-3001,1.0,2021-10-28,200,FALSE,Fire Extinguisher - Practical,272
+55651,WL-307,1.0,2021-02-08,200,FALSE,Job Safety Analysis,273
+61631,RP-5008-CRL,1.0,2021-05-05,200,FALSE,R3 Radiation Source Responsible User Update,274
+55103,PMO-9016,1.0,2021-08-31,200,FALSE,Cost Course - $495/person VIRTUAL Project Resource Management,275
+59976,MAINT-9027,1.0,2021-06-23,200,FALSE,HILTI Adhesive Anchor Installer,276
+56875,PROC-1001,1.0,2021-03-03,200,FALSE,Basic Oracle iProcurement Requisition Awareness,277
+54413,HR-9002,1.0,2021-04-14,200,FALSE,Performance Management Training Module 2,278
+51669,PMO-9009-ONLINE,1.0,2021-10-26,200,FALSE,Project Management Essentials,279
+91575,OSH-1005-ONLINE,1.7,2021-05-13,200,FALSE,Working At Heights Theory,280
+57455,WL-316,1.0,2021-01-28,200,FALSE,Diversity Training,281
+91680,OSH-9046-ONLINE,1.0,2021-04-13,400,FALSE,Hearing Conservation,282
+50067,EMP-3024,1.0,2021-06-01,200,FALSE,Integrated Emergency Response Table Top Exercise,283
+60834,SECU-2029,1.0,2021-07-14,200,FALSE,Security Awareness Refresher,284
+21121,FIRE-1038-CRL,1.0,2021-10-07,200,FALSE,Fire Behaviour,285
+61187,FIRE-1001-ONLINE,4.7,2021-04-01,200,FALSE,Fire Prevention,286
+92638,FIRE-1001-ONLINE,4.7,2022-02-01,200,FALSE,Fire Prevention,287
+54225,OSH-9045-ONLINE,1.0,2021-09-17,200,FALSE,Hand Safety,288
+57752,EMP-1036,1.0,2022-01-17,200,FALSE,Emergency Procedure Refresher,289
+54478,TD-1033,1.0,2021-10-02,400,FALSE,VIRTUAL Responsibilities In Supervising Employees (RISE) Day 2 of 3,290
+53553,HR-1005,1.0,2022-01-07,200,FALSE,Mandatory Harassment and Violence Prevention Training,291
+90368,HR-1005,1.0,2021-11-26,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,292
+61903,FD-3001,1.0,2021-03-23,200,FALSE,Hand Power Tool Practical Training and Checkout,293
+55189,FIRE-3001,1.0,2022-04-11,200,FALSE,FD - BLOCK Fire Extinguisher - Practical,294
+20290,OSH-9004,1.0,2021-12-07,200,FALSE,Trenching Safety Hazard Awareness,295
+21097,OSH-9045-ONLINE,1.0,2021-08-09,200,FALSE,Hand Safety,296
+61546,NRU-508220-M-09,1.0,2021-11-01,200,FALSE,NRU Access Control and General Familiarization-MLD,297
+272,HR-1005,1.0,2021-11-25,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,298
+92486,OSH-1007,1.0,2021-12-08,200,FALSE,Asbestos Module 6E,299
+56788,OSH-1040,1.0,2021-02-24,200,FALSE,Advanced Rigger,300
+90453,PROC-1001,1.0,2021-09-22,200,FALSE,Basic Oracle iProcurement Requisition Awareness,301
+95030,SECU-1008-ONLINE,4.0,2022-03-21,200,FALSE,*NEW HIRE* Security Awareness,302
+92403,FIRE-3001,1.0,2021-09-20,200,FALSE,Fire Extinguisher - Practical,303
+60035,RP-1011-CRL-ONLINE,1.2,2021-02-11,200,FALSE,Transfer and Storage of RAM- Tag Update Training,304
+56525,S&T-1001,1.0,2021-02-24,200,FALSE,Good Laboratory Practice – General Training,305
+92209,OSH-1034-ONLINE,1.5,2021-07-07,200,FALSE,Hazard Prevention Program,306
+60851,EMP-1012,1.0,2021-12-07,200,FALSE,EOC - Demobilization,307
+90813,TD-1011,1.0,2021-12-15,200,FALSE,Conducting On-The-Job Training,308
+59541,MS-3001-ONLINE,1.2,2021-04-30,200,FALSE,Integrated Work Control Practical Applications Exam,309
+90093,IT-1024,1.0,2021-06-02,200,FALSE,SharePoint Online - General User Training,310
+54023,OSH-9010,1.0,2021-07-26,200,FALSE,Overhead Crane Train the Trainer,311
+54600,SECU-2029,1.0,2022-02-23,200,FALSE,Security Awareness Refresher,312
+57350,EMP-1036,1.0,2022-01-18,200,FALSE,Emergency Procedure Refresher,313
+60894,WL-168,1.0,2021-06-15,400,FALSE,Waste Management & Packaging Fundamentals Combined,314
+60511,FPPD-1006,1.0,2022-01-25,200,FALSE,Fuel Programme Project Managment,315
+2367,IT-1031,1.0,2021-05-13,200,FALSE,VIRTUAL Document Formatting,316
+91352,OSH-9045-ONLINE,1.0,2021-07-22,200,FALSE,Hand Safety,317
+60987,OSH-9045-ONLINE,1.0,2021-11-01,200,FALSE,Hand Safety,318
+92129,RP-1013,1.0,2021-10-27,200,FALSE,TDG Class 7 Radioactive Material - RAMT Training,319
+92651,OSH-1034-ONLINE,1.5,2022-02-15,200,FALSE,Hazard Prevention Program,320
+56751,PROC-1001,1.0,2021-03-17,200,FALSE,Basic Oracle iProcurement Requisition Awareness,321
+10717,WL-308,1.0,2021-02-18,200,FALSE,Integrated Work Control,322
+20290,OSH-9104-ONLINE,1.0,2021-11-26,200,FALSE,Cost Course - Trenching Safety Theory,323
+57737,CNL-1009-ONLINE,1.3,2022-02-03,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,324
+59533,PMO-9011,1.0,2021-03-17,200,FALSE,Cost Course - $495/person VIRTUAL Project Management Framework,325
+56501,FIRE-3120-CRL,1.0,2021-10-04,200,FALSE,Radio Communications,326
+92213,HU-1038,1.0,2021-06-15,200,FALSE,(NEO) VIRTUAL Human Performance Awareness - Fundamentals and Nuclear Safety Culture,327
+92270,RP-G1-034,1.0,2021-11-23,200,FALSE,Group 1 - Personnel Contamination,328
+58525,TD-1035,1.0,2021-12-08,200,FALSE,RISE Field Essentials,329
+90077,FIRE-3133-CRL,1.0,2021-06-02,200,FALSE,Rope Rescue Level 1: Practical,330
+92606,SECU-1010,1.0,2022-01-25,200,FALSE,Equipment Familiarization,331
+58285,WL-304,1.0,2021-02-24,200,FALSE,Work Permit Authorization Process,332
+54471,EMP-1036,1.0,2022-04-07,200,FALSE,Emergency Procedure Refresher,333
+56075,PMO-9017,1.0,2021-10-20,200,FALSE,Cost Course - $495/person VIRTUAL Project Procurement Management,334
+92022,HR-1005,1.0,2021-11-23,200,FALSE,Mandatory Harassment and Violence Prevention Training,335
+10879,CNL-1009-ONLINE,1.3,2022-01-14,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,336
+60957,FIRE-3001,1.0,2021-11-25,200,FALSE,Fire Extinguisher - Practical,337
+91748,HU-1038,1.0,2021-04-06,200,FALSE,(NEO) VIRTUAL Human Performance Awareness - Fundamentals and Nuclear Safety Culture,338
+90198,OSH-3020,1.0,2021-09-24,200,FALSE,First Aid CPR C with AED - Blended In Class,339
+90200,RP-G3,1.0,2021-09-22,400,FALSE,Group 3 - Radiation Protection Training,340
+56265,OSH-9045-ONLINE,1.0,2021-07-20,200,FALSE,Hand Safety,341
+21073,MS-1002,1.0,2021-04-07,200,FALSE,Waiver for Integrated Work Control - Enhanced,342
+59541,MS-3001,1.0,2021-01-28,400,FALSE,Integrated Work Control Practical Application,343
+92149,TD-1018-ONLINE,1.9,2021-05-04,200,FALSE,CNL General Safety Orientation,344
+90932,EMP-1036,1.0,2022-01-12,200,FALSE,Emergency Procedure Refresher,345
+55584,EMP-3016,1.0,2021-12-08,200,FALSE,EOC - Table Top Exercise - Radiological,346
+92549,MS-1002,1.0,2022-02-02,200,FALSE,Integrated Work Control - Enhanced,347
+92631,EMP-1036,0.2,2022-02-01,200,FALSE,Emergency Procedure Refresher (0.2),348
+54761,OSH-3003-A,1.0,2022-04-05,400,FALSE,FD - BLOCK Aerial Work Platform Practical - Articulating Boom 135 ft,349
+59956,EMP-1036,0.2,2022-02-28,200,FALSE,Emergency Procedure Refresher (0.2),350
+90442,RP-MISC-06,1.0,2021-04-01,200,FALSE,Responsible User Radiation Source (R3),351
+60486,WL-308,1.0,2021-03-04,200,FALSE,Integrated Work Control,352
+91559,OSH-9026,1.0,2022-01-18,200,FALSE,Cost Course $220.05/Per Person - Federal Committees and Representatives Training,353
+91814,OSH-9046-ONLINE,1.0,2021-04-13,200,FALSE,Hearing Conservation,354
+57279,OSH-1004-VIRTUAL,1.0,2021-02-01,200,FALSE,Cost Course $222/Person - Lock Out / Tag Out (Virtual),355
+20973,FIRE-1001-ONLINE,4.7,2021-03-23,200,FALSE,Fire Prevention,356
+54078,SECU-2029,1.0,2021-05-13,200,FALSE,Security Awareness Refresher,357
+57370,HR-1005,1.0,2021-11-17,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,358
+92630,NMMS-1011-ONLINE,3.6,2022-02-08,200,FALSE,Nuclear Criticality Safety Program Awareness,359
+55424,TD-1033,1.0,2021-05-10,200,FALSE,Responsibilities In Supervising Employees (RISE) Day 2 of 3,360
+58149,TD-1035,1.0,2021-06-24,200,FALSE,RISE Field Essentials,361
+91575,OSH-9056-ONLINE,1.0,2021-06-15,200,FALSE,Trenching and Excavation Safety,362
+91767,OSH-9102-ONLINE,1.0,2021-07-14,200,FALSE,Crystalline Silica Awareness,363
+90506,WL-305,1.0,2021-02-25,200,FALSE,Stop Work,364
+92520,ENG-1006,1.0,2022-02-03,200,FALSE,Item Equivalency Evaluation Request (IEER),365
+52073,SECU-2029,1.4,2021-08-12,200,FALSE,Security Awareness Refresher (1.4),366
+92252,OSH-1004-VIRTUAL,1.0,2021-12-06,200,FALSE,VIRTUAL Cost Course - $222/Person - Lock Out / Tag Out,367
+58021,OSH-9071-ONLINE,1.0,2022-03-21,200,FALSE,Electrical Safety Introduction for Canada,368
+90942,TD-9001,1.0,2021-03-15,200,FALSE,Cost Course $759/Person - Writing Technical Information Effectively,369
+54234,FIRE-1001-ONLINE,4.7,2021-02-05,200,FALSE,Fire Prevention,370
+61903,TD-9032,1.0,2021-01-22,400,FALSE,Cost Course (WS Block) X-Ray Florescence Analyzer – Operator Level 1,371
+92101,CNL-1009-ONLINE,1.3,2021-03-23,200,FALSE,Employee Formal Acknowledgement of CNL Executive Management Directive for COVID-19 and Face Covering Policy,372
+61105,FIRE-1001-ONLINE,4.7,2021-09-28,200,FALSE,Fire Prevention,373
+95038,HR-1005,1.0,2022-04-07,400,FALSE,Mandatory Harassment and Violence Prevention Training,374
+91650,PHAI-1038,1.0,2021-05-06,200,FALSE,Port Granby System Module 2 – SCADA,375
+57105,WL-307,1.0,2021-01-27,200,FALSE,Job Safety Analysis,376
+58249,TD-2000-WL,1.0,2021-09-15,200,FALSE,GET General Employee Training,377
+57860,OPS-9020-ONLINE,1.0,2021-09-22,400,FALSE,Process and Instrumentation Diagrams,378
+91764,OSH-9046-ONLINE,1.0,2021-07-19,200,FALSE,Hearing Conservation,379
+92022,NMMS-1011-ONLINE,3.6,2021-02-08,200,FALSE,Nuclear Criticality Safety Program Awareness,380
+91038,OSH-1008,1.0,2021-01-12,200,FALSE,SSHC - Workplace Inspections,381
+61352,IT-1032,1.0,2021-02-18,400,FALSE,Creating Forms and Templates,382
+57653,FIRE-3001,1.0,2021-06-30,200,FALSE,Fire Extinguisher - Practical,383
+90169,OSH-1047,1.0,2021-08-12,200,FALSE,Where do I Stand? : Vehicle Spotter Training,384
+59064,OSH-1004-VIRTUAL,1.0,2021-04-26,200,FALSE,Lock Out / Tag Out (Virtual),385
+59493,WMA-3008,1.0,2022-01-24,400,FALSE,WS BLOCK - Drum Truck Operator,386
+55091,SECU-1044,1.0,2021-02-10,200,FALSE,Response to Adversary Breaches,387
+92094,SECU-1020,1.0,2021-03-30,200,FALSE,Nuclear Materials,388
+91938,NMMS-1001,1.0,2021-05-19,200,FALSE,Fissionable Materials Accounting,389
+57923,ENG-9021,1.0,2021-01-29,200,FALSE,Cost Course - Industrial Piping,390
+52751,SECU-1046,1.0,2022-01-03,200,FALSE,Containment,391
+58473,RP-G3,1.0,2021-09-09,200,FALSE,Group 3 - Radiation Protection Training,392
+61495,OPEX-1005-ONLINE,1.4,2021-07-21,200,FALSE,Introducing the ImpAct Process at CNL,393
+91480,OSH-9071-ONLINE,1.0,2021-05-03,200,FALSE,Electrical Safety Introduction for Canada,394
+90669,ENG-1006,1.0,2021-06-11,200,FALSE,Item Equivalency Evaluation Request (IEER),395
+61945,OSH-9076-ONLINE,1.0,2022-03-14,200,FALSE,Electric Shock,396
+56886,OPS-9020-ONLINE,1.0,2021-09-03,200,FALSE,Process and Instrumentation Diagrams,397
+92097,OSH-1034-ONLINE,1.5,2021-03-22,200,FALSE,Hazard Prevention Program,398
+54171,SL-1003,1.0,2021-10-26,200,FALSE,Regulatory Issues Management,399
+90383,WMA-1010,1.0,2022-01-24,200,FALSE,WS BLOCK - Emergency Procedures for the Waste Management Area,400
+10241,FIRE-1001-ONLINE,4.7,2021-04-26,200,FALSE,Fire Prevention,401
+58992,SECU-2029,1.4,2021-08-17,200,FALSE,Security Awareness Refresher (1.4),402
+58255,OSH-1005-ONLINE,1.7,2021-01-27,200,FALSE,Working At Heights Theory,403
+59561,EMP-1010,1.0,2021-05-05,200,FALSE,EOC - Handover Procedure,404
+55034,TD-9040,1.0,2021-04-14,200,FALSE,VIRTUAL Writing CNL Scopes of Work for External Resources,405
+56071,HR-1005,1.0,2021-11-24,200,FALSE,Mandatory Harassment and Violence Prevention Training,406
+92371,OSH-9046-ONLINE,1.0,2022-03-16,400,FALSE,Hearing Conservation,407
+53044,OSH-9045-ONLINE,1.0,2021-07-19,200,FALSE,Hand Safety,408
+58714,OSH-9076-ONLINE,1.0,2021-01-19,200,FALSE,Electric Shock,409
+57844,WL-308,1.0,2021-02-09,200,FALSE,Integrated Work Control,410
+90400,WL-166,1.0,2021-07-12,200,FALSE,Scaffolding Safety - External Trainer,411
+90994,EMP-1036,0.2,2022-04-19,200,FALSE,Emergency Procedure Refresher (0.2),412
+92639,WL-304,1.0,2022-02-28,200,FALSE,Work Permit Authorization Process,413
+92035,OSH-1034-ONLINE,1.5,2021-02-23,200,FALSE,Hazard Prevention Program,414
+61565,FIRE-1166-CRL,1.0,2021-07-19,200,FALSE,Wildland Firefighting: Fuel Handling and Safety,415
+59911,EMP-1036,1.0,2022-01-21,200,FALSE,Emergency Procedure Refresher,416
+92464,PHAI-1001,1.0,2021-12-08,200,FALSE,Employee Orientation - PHAI MO,417
+56006,WL-308,1.0,2021-02-16,200,FALSE,Integrated Work Control,418
+10667,FIRE-3001,1.0,2021-02-17,200,FALSE,Fire Extinguisher - Practical,419
+20581,TDG-1003-C,1.0,2021-10-07,200,FALSE,TDG Class 7 Radioactive Material - Carrier (R3),420
+92095,TD-1018-ONLINE,1.9,2021-03-22,200,FALSE,CNL General Safety Orientation,421
+70742,EMP-1036,0.2,2022-02-09,200,FALSE,Emergency Procedure Refresher (0.2),422
+90182,HR-1003-ONLINE,1.0,2021-05-25,200,FALSE,Fitness for Duty,423
+55768,OSH-1004-VIRTUAL,1.0,2022-04-18,400,FALSE,VIRTUAL Cost Course - $222/Person - Lock Out / Tag Out,424
+92401,ODT-WL-801,1.0,2021-09-28,200,FALSE,Vehicle Spotter and Guide Person,425
+54055,OSH-2020-A,1.0,2021-02-04,400,FALSE,"Cost Course - $185/Person - First Aid Standard, CPR, AED Recertification",426
+57544,HR-1005,1.0,2021-11-10,200,FALSE,Mandatory Harassment and Violence Prevention Training,427
+50846,HR-1005,1.0,2021-11-17,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,428
+61445,OSH-9045-ONLINE,1.0,2021-07-19,200,FALSE,Hand Safety,429
+92286,RP-1003,1.0,2021-07-20,200,FALSE,Radiation Protection PPE&C Dress and Undress,430
+53319,WL-168,1.0,2021-06-21,400,FALSE,Waste Management & Packaging Fundamentals Combined,431
+90870,EMP-1036,1.0,2022-01-26,200,FALSE,Emergency Procedure Refresher,432
+92275,TD-1001,1.0,2021-07-05,200,FALSE,GROUP 1 Offering of Employee Orientation - CRL,433
+60997,OSH-2020-A,1.0,2021-08-31,400,FALSE,"Cost Course - $185/Person - First Aid Standard, CPR, AED Recertification",434
+91857,OSH-9045-ONLINE,1.0,2021-08-03,200,FALSE,Hand Safety,435
+90934,TD-1001,1.0,2021-02-08,200,FALSE,Employee Orientation - CRL,436
+57194,SECU-2029,1.0,2021-04-07,200,FALSE,Security Awareness Refresher,437
+92200,OSH-9066,1.0,2021-09-08,200,FALSE,Asbestos Abatement Type 3 Worker - Ontario Provincial Certification,438
+92628,OSH-1034-ONLINE,1.5,2022-02-02,200,FALSE,Hazard Prevention Program,439
+92244,AWS-0095-WL,1.0,2022-03-22,200,FALSE,Contracts & Contract Management Awareness,440
+92590,OPEX-1005-ONLINE,1.4,2022-01-18,200,FALSE,Introducing the ImpAct Process at CNL,441
+61750,OSH-9103,1.0,2022-03-21,200,FALSE,Mental Health First Aid (Virtual),442
+59619,SECU-4013,1.0,2021-05-05,200,FALSE,B700 Reception Counter,443
+50816,RP-G3-FCO,1.0,2021-11-03,200,FALSE,Group 3 Practical Field Checkout,444
+56388,MS-1002,1.0,2021-12-14,200,FALSE,Integrated Work Control - Enhanced,445
+92251,WL-304,1.0,2021-08-26,200,FALSE,Work Permit Authorization Process,446
+92003,OSH-1034-ONLINE,1.5,2021-02-02,200,FALSE,Hazard Prevention Program,447
+56315,RP-G3-FCO,1.0,2022-01-24,400,FALSE,Group 3 Practical Field Checkout,448
+90503,HR-1005,1.0,2021-11-24,200,FALSE,Mandatory Harassment and Violence Prevention Training,449
+60443,FD-3019,1.0,2022-02-17,200,FALSE,FD&ER Integrated Work Control,450
+90227,PMO-9014,1.0,2021-07-13,200,FALSE,Cost Course - $495/person VIRTUAL Project Cost Management,451
+92298,OSH-9004,1.0,2021-07-14,200,FALSE,Trenching Safety Hazard Awareness,452
+60511,TD-9040,1.0,2021-04-14,200,FALSE,VIRTUAL Writing CNL Scopes of Work for External Resources,453
+60356,IT-1029,1.0,2021-05-12,200,FALSE,VIRTUAL Introduction to ATOM,454
+60009,SECU-2029,1.0,2021-04-19,200,FALSE,Security Awareness Refresher,455
+61131,RP-G3-REFRESHER-ONLINE,1.5,2021-04-15,200,FALSE,Group 3 Radiation Protection Refresher,456
+55776,OSH-9045-ONLINE,1.0,2021-11-17,400,FALSE,Hand Safety,457
+54264,OSH-9045-ONLINE,1.0,2021-10-26,200,FALSE,Hand Safety,458
+54829,FIRE-1001-ONLINE,4.7,2021-03-04,200,FALSE,Fire Prevention,459
+58956,RP-G3,1.0,2021-02-24,200,FALSE,Group 3 - Radiation Protection Training,460
+55653,WL-306,1.0,2021-02-01,200,FALSE,Pre Job Brief,461
+92286,RP-G1-005,1.0,2021-08-18,200,FALSE,Group 1 - Nuclear Physics,462
+92286,RP-G1-014,1.0,2021-09-20,200,FALSE,Group 1 - Radiation Detector Theory,463
+91742,HU-1038,1.0,2021-01-26,200,FALSE,Human Performance Awareness - Fundamentals and Nuclear Safety Culture,464
+59500,EMP-1036,1.0,2022-01-12,200,FALSE,Emergency Procedure Refresher,465
+56014,FIRE-3001,1.0,2021-03-31,200,FALSE,Fire Extinguisher,466
+92065,OSH-9045-ONLINE,1.0,2021-07-20,200,FALSE,Hand Safety,467
+56932,FD-1001-ONLINE,1.1,2021-10-20,200,FALSE,Decommissioning Process Awareness Training for Employees,468
+61638,SECU-2029,1.0,2021-04-23,200,FALSE,Security Awareness Refresher,469
+92216,OSH-9070-ONLINE,1.0,2021-10-05,400,FALSE,Arc Flash Safety for Canada,470
+90239,RP-G3-FCO,1.0,2021-08-26,200,FALSE,Group 3 Practical Field Checkout,471
+61696,FIRE-1001-ONLINE,4.7,2021-05-12,200,FALSE,Fire Prevention,472
+92513,OSH-1029-ONLINE,1.1,2021-12-08,200,FALSE,Oxygen Enriched System Hazard Awareness,473
+91484,OSH-3017,1.0,2021-05-19,200,FALSE,Electrical Safety Watcher Practical,474
+90177,WMA-1010,1.0,2021-01-12,200,FALSE,WS Block - Emergency Procedures for the Waste Management Area,475
+60315,HR-1005,1.0,2021-12-08,200,FALSE,Mandatory Harassment and Violence Prevention Training,476
+92284,OSH-1034-ONLINE,1.5,2021-07-06,200,FALSE,Hazard Prevention Program,477
+59960,FD-1001-ONLINE,1.1,2022-03-10,200,FALSE,Decommissioning Process Awareness Training for Employees,478
+890,OSH-1034-ONLINE,1.5,2021-06-01,200,FALSE,Hazard Prevention Program,479
+54348,HR-1005,1.0,2021-11-18,200,FALSE,Mandatory Harassment and Violence Prevention Training,480
+59593,SECU-4012,1.0,2022-01-11,200,FALSE,B457 Stores,481
+91836,RP-G1-023,1.0,2021-05-03,200,FALSE,Group 1-Airborne Contamination Instruments-Tritium,482
+54471,HR-1005,1.0,2021-11-10,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,483
+92214,FIRE-3001,1.0,2021-06-14,200,FALSE,(NEO) Fire Extinguisher,484
+55768,WL-168,1.0,2021-06-23,200,FALSE,Waste Management & Packaging Fundamentals Combined,485
+92325,SECU-2029,1.4,2021-08-10,200,FALSE,Security Awareness Refresher (1.4),486
+60950,ERM-1001-ONLINE,1.4,2021-04-20,200,FALSE,Cleanup Function Overview,487
+57526,HR-1005,1.0,2021-11-24,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,488
+20176,OSH-9104-ONLINE,1.0,2021-11-08,200,FALSE,Cost Course - Trenching Safety Theory,489
+90784,RP-G3-FCO,1.0,2021-12-02,200,FALSE,Group 3 Practical Field Checkout,490
+91819,MAINT-1002,1.0,2021-02-02,400,FALSE,Private Offering of Steam System Safety Awareness,491
+51860,PMO-9017,1.0,2021-10-13,200,FALSE,Cost Course - $495/person VIRTUAL Project Procurement Management,492
+60486,WL-305,1.0,2021-03-31,400,FALSE,Stop Work,493
+60294,TDG-1007-H-EXAM,1.6,2021-02-22,200,FALSE,TDG Class 7 Radioactive Material - Handler Exam,494
+20674,TD-9043,1.0,2021-05-12,200,FALSE,"Cost Course $1,925/Person(MAX) - Coaching Skills for Effective Leadership",495
+60748,PMO-1003-A,1.0,2021-05-27,200,FALSE,Primavera - Basic,496
+10837,HR-9001,1.0,2021-03-30,200,FALSE,Performance Management Training Module 1,497
+55651,WL-305,1.0,2021-02-09,200,FALSE,Stop Work,498
+92427,PROC-1001,1.0,2021-11-24,200,FALSE,Basic Oracle iProcurement Requisition Awareness,499
+59081,WL-315,1.0,2021-03-08,400,FALSE,Respectful Work Place,500
+54017,HR-1005,1.0,2021-12-09,200,FALSE,Mandatory Harassment and Violence Prevention Training,501
+92468,HR-1005,1.0,2021-11-18,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,502
+55584,OSH-9103,1.0,2022-02-08,200,FALSE,Mental Health First Aid (Virtual),503
+61467,WL-304,1.0,2021-02-24,200,FALSE,Work Permit Authorization Process,504
+59862,OSH-9070-ONLINE,1.0,2021-01-20,200,FALSE,Arc Flash Safety for Canada,505
+56995,SECU-2044,1.0,2021-05-28,200,FALSE,Resopnse to Adversary Breaches Refresher,506
+90227,PMO-9012,1.0,2021-04-28,200,FALSE,Cost Course - $495/person VIRTUAL Project Scope Management,507
+54475,TD-1032,1.0,2021-11-02,200,FALSE,VIRTUAL Responsibilities In Supervising Employees (RISE) Day 1 of 3,508
+51997,EMP-1036,1.0,2022-02-02,200,FALSE,Emergency Procedure Refresher,509
+61478,OSH-9071-ONLINE,1.0,2022-03-17,200,FALSE,Electrical Safety Introduction for Canada,510
+58406,OSH-1042-ONLINE,12.5,2021-02-11,200,FALSE,WHMIS - 2015,511
+90318,PMO-9016,1.0,2021-09-29,200,FALSE,Cost Course - $495/person VIRTUAL Project Resource Management,512
+92400,OSH-9078-ONLINE,1.0,2021-10-06,200,FALSE,Storage and Handling of Corrosives,513
+61484,OSH-1004-VIRTUAL,1.0,2021-08-25,200,FALSE,VIRTUAL Cost Course - $222/Person - Lock Out / Tag Out,514
+92547,RP-G1-043,1.0,2022-01-04,200,FALSE,Radiography and Exposure Devices,515
+61879,OSH-9070-ONLINE,1.0,2021-05-17,200,FALSE,Arc Flash Safety for Canada,516
+27605,OSH-9071-ONLINE,1.0,2021-11-11,200,FALSE,Electrical Safety Introduction for Canada,517
+60339,FIRE-1001-ONLINE,4.7,2021-08-10,200,FALSE,Fire Prevention,518
+53361,OSH-9046-ONLINE,1.0,2021-04-21,200,FALSE,Hearing Conservation,519
+59025,PMO-9014,1.0,2021-06-29,200,FALSE,Cost Course - $495/person VIRTUAL Project Cost Management,520
+57454,WL-307,1.0,2021-01-21,200,FALSE,Job Safety Analysis,521
+53052,MS-3001-ONLINE,1.2,2021-07-13,200,FALSE,Integrated Work Control Practical Applications Exam,522
+92279,RP-G1-008,1.0,2021-08-31,200,FALSE,Group 1 - Modes of Exposure,523
+57961,TD-1034,1.0,2022-04-19,200,FALSE,Responsibilities In Supervising Employees (RISE) Day 3 of 3,524
+58207,WL-313,1.0,2021-03-29,400,FALSE,QA Plan Awareness,525
+91480,OSH-9104-ONLINE,1.0,2021-05-03,200,FALSE,Cost Course - Trenching Safety Theory,526
+57348,FIRE-1077-CRL,1.0,2021-05-26,200,FALSE,Hazmat: Product Control,527
+60092,HR-1005,1.0,2021-12-10,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,528
+55174,SECU-3031,1.0,2022-04-12,200,FALSE,Secondary Firearm Qualification (Sig Sauer P226),529
+91160,HR-1005,1.0,2021-11-23,200,FALSE,Mandatory Harassment and Violence Prevention Training,530
+55350,FIRE-1110-CRL,1.0,2021-09-21,200,FALSE,Personal Protective Equipment for Firefighting,531
+59316,HR-1005,1.0,2021-11-19,200,FALSE,Mandatory Harassment and Violence Prevention Training,532
+90301,QUAL-1013-ONLINE,3.0,2021-06-30,200,FALSE,FME Awareness CRL,533
+60688,PROC-1020,1.0,2022-04-12,200,FALSE,CNL Contractor Representative,534
+20176,OSH-9004,1.0,2021-11-08,200,FALSE,Trenching Safety Hazard Awareness,535
+90710,OSH-1047,1.0,2021-06-03,200,FALSE,Where do I Stand? : Vehicle Spotter Training,536
+53983,ENG-9021,1.0,2021-01-29,200,FALSE,Cost Course - Industrial Piping,537
+54193,OSH-1047,1.0,2021-06-09,200,FALSE,Where do I Stand? : Vehicle Spotter Training,538
+91841,ENG-1001,1.0,2021-01-21,200,FALSE,Eng. Change Control: Engineering/Operations,539
+55584,EMP-1002,1.0,2021-12-06,200,FALSE,EOC - CRL EOC Overview,540
+60062,PMO-9016,1.0,2021-07-26,400,FALSE,Cost Course - $495/person VIRTUAL Project Resource Management,541
+90428,HR-1005,1.0,2021-11-16,200,FALSE,Virtual Mandatory Harassment and Violence Prevention Training,542
+92064,OPEX-1005-ONLINE,1.4,2021-03-08,200,FALSE,Introducing the ImpAct Process at CNL,543
+20145,HR-1005,1.0,2021-11-24,200,FALSE,Mandatory Harassment and Violence Prevention Training,544
+20973,OSH-1004-VIRTUAL,1.0,2021-02-01,200,FALSE,Lock Out / Tag Out (Virtual),545
+56227,RP-G3,1.0,2021-10-18,200,FALSE,Group 3 - Radiation Protection Training,546
+92427,FIRE-3001,1.0,2021-10-04,200,FALSE,(NEO) Fire Extinguisher,547
+91899,OSH-1102-ONLINE,1.1,2021-02-17,200,FALSE,Crystalline Silica Awareness Training: Part Two,548
+639,HR-1005,1.0,2021-12-22,200,FALSE,Mandatory Harassment and Violence Prevention Training,549
+61484,EMP-1001,1.0,2021-05-03,200,FALSE,EOC - Incident Management System Overview,550
+56310,PMO-9017,1.0,2021-10-12,200,FALSE,Cost Course - $495/person VIRTUAL Project Procurement Management,551
+91959,RP-G3-FCO,1.0,2021-03-04,200,FALSE,Group 3 Practical Field Checkout,552
+59523,IT-1019,1.0,2021-07-07,200,FALSE,EDMS System Overview,553
+56983,SECU-2029,1.0,2022-01-14,200,FALSE,Security Awareness Refresher,554
