@@ -1,0 +1,476 @@
+[
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8890,
+                "y": -29903
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8739,
+                "y": -28918
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 113
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8538,
+                "y": -27665
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 164
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8135,
+                "y": -23188
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 565
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8084,
+                "y": -23188
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -781,
+                "y": -24621
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 176
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -3854,
+                "y": -24979
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6725,
+                "y": -25158
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6826,
+                "y": -25158
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 176
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6826,
+                "y": -25248
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 139
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6876,
+                "y": -25248
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1285
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6826,
+                "y": -23457
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7279,
+                "y": -19339
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 159
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7380,
+                "y": -17100
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 167
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7632,
+                "y": -10833
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 145
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7682,
+                "y": -9043
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 152
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7582,
+                "y": -8148
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 137
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -7430,
+                "y": -7163
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 1719
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -6927,
+                "y": -7073
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": -681,
+                "y": -5641
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 2392,
+                "y": -6178
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 117
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 4457,
+                "y": -5283
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 7178,
+                "y": -4477
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 176
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9092,
+                "y": -3850
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9193,
+                "y": -3761
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 2106
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9142,
+                "y": -4566
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 315
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9142,
+                "y": -4835
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 101
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 9041,
+                "y": -6357
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 100
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8991,
+                "y": -8506
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 108
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8941,
+                "y": -11639
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 124
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 8437,
+                "y": -18802
+            }
+        }
+    },
+    {
+        "event_type": "delay",
+        "event": {
+            "millis": 134
+        }
+    },
+    {
+        "event_type": "mouse_move",
+        "event": {
+            "to": {
+                "x": 7782,
+                "y": -31336
+            }
+        }
+    }
+]
