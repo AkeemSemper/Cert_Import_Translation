@@ -131,3 +131,5 @@ dmypy.json
 # ._
 .*
 !/.gitignore
+termination_out
+termination_out/
