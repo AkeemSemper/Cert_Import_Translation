@@ -137,3 +137,7 @@ termination_out/
 termination_source
 termination_source/
 termination.ipynb
+
+qualifications/
+qualifications/*
+!qualifications
